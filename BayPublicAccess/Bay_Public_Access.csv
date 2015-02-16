@@ -1,0 +1,1123 @@
+State,County,Site_Name,Water_Body,Latitude,Longitude,Boat,Fish,Swim,Trail,Restroom,Parking,Comments,Ownership
+West Virginia,Morgan,Great Cacapon,Cacapon River,39.61860000000,-78.28230000000,Yes,No,No,No,No,Yes,,NA
+West Virginia,Hampshire,Cacapon Crossing,Cacapon River,39.45200000000,-78.42480000000,Yes,No,No,No,No,Yes,,NA
+West Virginia,Jefferson,Bloomery,Shenandoah River,39.25360000000,-77.81530000000,Yes,No,No,No,No,Yes,,NA
+West Virginia,Hampshire,C-17,Cacapon River,39.40320000000,-78.41740000000,Yes,No,No,No,No,Yes,,NA
+West Virginia,Grant,River Road,South Branch Potomac River,38.99330000000,-79.17460000000,Yes,No,No,No,No,Yes,,"Private, No permission Required"
+West Virginia,Grant,Welton Park,South Branch Potomac River,39.00000000000,-79.08640000000,Yes,No,No,No,Yes,Yes,,Welton Park Ath.
+West Virginia,Grant,Welton Park Ramp 2,South Branch Potomac River,39.00110000000,-79.08440000000,Yes,No,No,No,Yes,Yes,,Welton Park Ath.
+West Virginia,Hardy,Fisher Bridge South,South Branch Potomac River,39.01950000000,-79.00550000000,Yes,No,No,No,No,Yes,,NA
+West Virginia,Hardy,Fisher Bridge,South Branch Potomac River,39.05330000000,-78.99110000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Hardy,Old Fields Bridge,South Branch Potomac River,39.10360000000,-78.95880000000,Yes,No,No,No,No,Yes,,"WVDNR, WVDOH"
+West Virginia,Hardy,South Branch WMA Access,South Branch Potomac River,39.14590000000,-78.92480000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Hampshire,Harmissions,South Branch Potomac River,39.22780000000,-78.85240000000,Yes,No,No,No,Yes,Yes,,WVDNR
+West Virginia,Hampshire,Stoney Run,South Branch Potomac River,39.24650000000,-78.84260000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Hampshire,Romney Bridge,South Branch Potomac River,39.33940000000,-78.77650000000,Yes,No,No,No,Yes,Yes,,"WVDOH, WVDNR"
+West Virginia,Hampshire,Hanging Rock,South Branch Potomac River,39.39970000000,-78.74290000000,Yes,No,No,No,No,No,,WVDNR
+West Virginia,Hampshire,Blue Beach Bridge,South Branch Potomac River,39.42790000000,-78.71460000000,Yes,No,No,No,No,No,,WVDOH
+West Virginia,Hampshire,Millesonne Mills,South Branch Potomac River,39.44290000000,-78.66810000000,Yes,No,No,No,No,No,,WVDOH
+West Virginia,Hampshire,Millesonne Mills Bridge,South Branch Potomac River,39.44800000000,-78.65340000000,Yes,No,No,No,No,Yes,,"WVDNR, WVDOH"
+West Virginia,Hampshire,Blue Ford South,South Branch Potomac River,39.49150000000,-78.60820000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Hampshire,CR 1-1,South Branch Potomac River,39.51030000000,-78.60020000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Morgan,Paw Paw,Potomac River,39.53800000000,-78.45490000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Morgan,Largent Bridge,Cacapon River,39.48080000000,-78.38500000000,Yes,No,No,No,No,No,,WVDOH
+West Virginia,Morgan,St Rt 9 Bridge,Cacapon River,39.52820000000,-78.34860000000,Yes,No,No,No,No,No,,WVDOH
+West Virginia,Morgan,Cacapon Power Plant,Cacapon River,39.60690000000,-78.29100000000,Yes,No,No,No,No,No,,WVDOH
+West Virginia,Morgan,CR 7 Bridge,Cacapon River,39.58170000000,-78.30880000000,Yes,No,No,No,No,No,,WVDOH
+West Virginia,Morgan,Great Cacapon,Cacapon River,39.61850000000,-78.28240000000,Yes,No,No,No,No,Yes,,WVDNR-WRS
+West Virginia,Morgan,Cherry Run,Potomac River,39.62880000000,-78.03140000000,Yes,No,No,No,No,Yes,,WVDNR-WRS
+West Virginia,Jefferson,Dam #4,Potomac River,39.49290000000,-77.82490000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Jefferson,Shaperds Town,Potomac River,39.43430000000,-77.80180000000,Yes,No,No,No,No,Yes,,"WVDNR, City of Sheperdstown"
+West Virginia,Jefferson,Dam #3,Potomac River,39.33270000000,-77.75040000000,Yes,No,No,No,No,Yes,,US Park Service
+West Virginia,Jefferson,Harppers Ferry Park,Shenandoah River,39.32060000000,-77.74240000000,Yes,No,No,No,No,Yes,,US Park Service
+West Virginia,Jefferson,"Millville (Below Dam),Potomac Ediso",Shenandoah River,39.27500000000,-77.78670000000,Yes,No,No,No,No,Yes,,"WVDNR, Allegheny Energy Inc."
+West Virginia,Jefferson,Millville (Dam),Shenandoah River,39.26850000000,-77.78370000000,Yes,No,No,No,No,Yes,,Allegheny Energy Inc.
+West Virginia,Jefferson,"Millville (Above Dam),Potomac Ediso",Shenandoah River,39.26350000000,-77.79110000000,Yes,No,No,No,No,Yes,,Allegheny Energy Inc.
+West Virginia,Jefferson,Moulton Park,Shenandoah River,39.25840000000,-77.80740000000,Yes,No,No,No,No,Yes,,NA
+West Virginia,Jefferson,Millville,Shenandoah River,39.25800000000,-77.78270000000,Yes,No,No,No,No,Yes,,WVDNR-WRS
+West Virginia,Jefferson,Shannondale Springs WMA Access,Shenandoah River,39.22470000000,-77.82020000000,Yes,No,No,No,No,Yes,,WVDNR-WRS
+West Virginia,Grant,Petersburg,South Branch Potomac River,38.98840000000,-79.12120000000,Yes,No,No,No,No,Yes,,NA
+West Virginia,Hampshire,Fort Mill Ridge WMA,South Branch Potomac River,39.33060000000,-78.78490000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Mineral,Wiley Ford,North Fork Potomac River,39.61050000000,-78.75690000000,Yes,No,No,No,No,Yes,,"WVDNR, WVDOH"
+West Virginia,Hampshire,Blue Ford North,South Branch Potomac River,39.49290000000,-78.60960000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Hampshire,Indian Rocks,South Branch Potomac River,39.51030000000,-78.60010000000,Yes,No,No,No,No,Yes,,WVDNR
+West Virginia,Hampshire,Mouth of South Branch,South Branch Potomac River,39.52490000000,-78.59080000000,Yes,No,No,No,No,No,,WVDOH
+West Virginia,Jefferson,Meyerstown,Shenandoah River,39.20550000000,-77.84780000000,Yes,No,No,No,No,No,,WVDOH
+Virginia,King George,Lands End Wildlife Mngmt Area,,38.16310000000,-77.11290000000,No,No,No,No,Yes,Unknown,,
+Virginia,Chesterfield County,Dutch Gap Conservation Area,,37.37270000000,-77.36200000000,No,Yes,No,Yes,No,Medium,,
+Virginia,James City County,Chickahominy Riverside Park,,37.26580000000,-76.87080000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,James City County,Powhatan Creek Park,,37.24890000000,-76.77620000000,No,Yes,No,Yes,No,Shoulder,,
+Virginia,City of Suffolk,Bennett∆s Creek Ramp,,36.85090000000,-76.48450000000,Yes,Yes,No,No,No,Medium,,
+Virginia,City of Virginia Beach,Lynhaven Ramp,,36.90690000000,-76.09410000000,Yes,Yes,Yes,No,Yes,Large,,
+Virginia,Hanover  County,Rte. 301 Ramp,,37.78820000000,-77.37090000000,Yes,Yes,No,No,No,Shoulder,,
+Virginia,Westmoreland County,Currioman Landing,,38.15410000000,-76.76150000000,Yes,Yes,No,No,No,Medium,,
+Virginia,City of Hampton,Grundlen Park,,37.09760000000,-76.29330000000,No,Yes,No,Yes,Yes,Shoulder,,
+Virginia,Town of Urbanna,Urbanna Town Marina,,37.63630000000,-76.57200000000,Yes,Yes,No,No,Yes,Medium,,
+Virginia,Alexandria,George Washington Mem Pkwy,,38.82630000000,-77.04300000000,Yes,Yes,No,Yes,No,Medium,,
+Virginia,Alexandria,Daingerfield Island,,38.83270000000,-77.04060000000,Yes,Yes,No,Yes,Yes,Medium,,
+Virginia,Alexandria,Mt Vernon Trail,,38.81920000000,-77.03980000000,No,No,No,Yes,Yes,Medium,,
+Virginia,Alexandria,Oronoco Bay Park,,38.81250000000,-77.03820000000,No,Yes,No,Yes,No,Shoulder,,
+Virginia,Stafford,Aqua-Po Beach Park,,38.38640000000,-77.31710000000,No,Yes,Yes,No,Yes,Large,,
+Virginia,Fredericksburg,Walking Tour/Riverside Park,,38.31750000000,-77.47820000000,No,Yes,No,Yes,No,Shoulder,,
+Virginia,Fredericksburg,Old Mill Park,,38.31650000000,-77.46510000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Stafford,St. Clair Brook Park,,38.31060000000,-77.45870000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Stafford,John Lee Pratt Mem Park,,38.30360000000,-77.45400000000,No,Yes,No,No,Yes,Large,,
+Virginia,Stafford,Chatham/F-S NHBP,,38.29750000000,-77.44980000000,No,No,No,No,Yes,Medium,,
+Virginia,Fredericksburg,City Dock Park,,38.29600000000,-77.45400000000,Yes,Yes,No,No,No,Large,,
+Virginia,Westmoreland,Colonial Beach Beaches,,38.24630000000,-76.96020000000,No,No,Yes,No,Yes,Large,,
+Virginia,Westmoreland,George Washington Birthplace NM,,38.18770000000,-76.92120000000,No,No,No,Yes,Yes,Large,,
+Virginia,Caroline,Port Royal Landing,,38.16770000000,-77.18630000000,No,Yes,No,No,No,Shoulder,,
+Virginia,King George,Rappahannock River NWR,,38.16580000000,-77.05980000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Northumberland,Dameron Marsh NAP,,37.74560000000,-76.31630000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Stafford,Stafford County Boat Ramp,,38.24790000000,-77.38620000000,Yes,No,No,No,No,Large,,
+Virginia,Prince William,Occoquan Bay NWR,,38.64320000000,-77.23810000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Accomack,Hammock Landing,,37.90450000000,-75.68360000000,Yes,No,No,No,No,Large,,
+Virginia,Northampton,Fox Hill Landing,,37.49050000000,-75.92550000000,Yes,No,No,No,No,Large,,
+Virginia,Westmoreland,Westmoreland State Park,,38.17060000000,-76.86370000000,Yes,Yes,Yes,Yes,Yes,Large,,
+Virginia,Westmoreland,Branson Cove,,38.14270000000,-76.63930000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Richmond,Carter's Wharf Landing,,38.07170000000,-76.92340000000,Yes,Yes,Yes,No,No,Medium,,
+Virginia,Richmond,Jones Creek Landing,,38.01950000000,-76.90210000000,No,Yes,Yes,No,No,Large,,
+Virginia,Northumberland,Lodge Landing,,37.99330000000,-76.54160000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Accomack,Pitts Creek Landing,,37.97470000000,-75.63090000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Northumberland,Forrest Landing,,37.94160000000,-76.48450000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Accomack,Schooner Bay Landing,,37.76270000000,-75.77260000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Accomack,South Chesconessex Landing,,37.74800000000,-75.77350000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Northumberland,Hughlett Point NAP,,37.73160000000,-76.30820000000,No,No,No,No,No,Shoulder,,
+Virginia,Accomack,Parkers Marsh Natural Area,,37.73730000000,-75.82540000000,No,No,No,No,No,Shoulder,,
+Virginia,Middlesex,Mill Stone Landing,,37.72620000000,-76.62260000000,Yes,Yes,No,No,No,Large,,
+Virginia,Lancaster,Greenvale Creek Landing,,37.71730000000,-76.54220000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Williamsburg,College Landing Park,,37.25030000000,-76.70710000000,No,Yes,No,Yes,No,Medium,,
+Virginia,Gloucester,Gloucester Point Landing,,37.24750000000,-76.50500000000,Yes,Yes,No,No,No,Large,,
+Virginia,Gloucester,Gloucester Point Beach,,37.24810000000,-76.49620000000,No,Yes,Yes,No,Yes,Large,,
+Virginia,York,Colonial National Historical Park,,37.23220000000,-76.52650000000,No,Yes,No,No,No,Medium,,
+Virginia,Hampton,Fox Hill Landing,,37.09600000000,-76.29400000000,Yes,Yes,No,No,No,Large,,
+Virginia,Isle of Wight,Tyler's Beach Ramp,,37.08390000000,-76.66500000000,Yes,No,No,No,No,Medium,,
+Virginia,Hampton,Gosnolds Hope Park,,37.07760000000,-76.33060000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,Northampton,Chesapeake Bay Bridge-Tunnel,,37.04700000000,-76.06070000000,No,Yes,No,No,Yes,Large,,
+Virginia,Hampton,Salt Ponds Beach,,37.05500000000,-76.28040000000,No,Yes,Yes,No,No,Large,,
+Virginia,Hampton,Buckroe Beach,,37.04350000000,-76.28830000000,No,Yes,Yes,No,Yes,Large,,
+Virginia,Hampton,Mill Point Park,,37.01690000000,-76.33570000000,No,No,No,No,Yes,Shoulder,,
+Virginia,Hampton,Sunset Boat Ramp,,37.01600000000,-76.34410000000,Yes,No,No,No,No,Large,,
+Virginia,Newport News,Huntington Park,,37.01740000000,-76.45550000000,Yes,Yes,Yes,Yes,Yes,Large,,
+Virginia,Newport News,Monitor-Merrimac Overlook Park,,36.99040000000,-76.38690000000,No,Yes,Yes,No,No,Large,,
+Virginia,Newport News,Peterson Yacht Basin,,36.98530000000,-76.39980000000,Yes,Yes,No,No,No,Large,,
+Virginia,Newport News,Anderson Park,,36.98130000000,-76.39880000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Norfolk,Beach Accessways,,36.97010000000,-76.28390000000,No,Yes,Yes,Yes,No,Shoulder,,
+Virginia,Northumberland,Rowes Landing,,37.93660000000,-76.48230000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Essex,Hoskins Creek Landing,,37.92080000000,-76.85740000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Essex,Prince Street Public Landing,,37.92990000000,-76.85610000000,Yes,Yes,No,No,No,Shoulder,,
+Virginia,Richmond,Totuskey Creek Landing,,37.92060000000,-76.72250000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,Accomack,Saxis Landing,,37.92000000000,-75.73030000000,Yes,No,No,No,Yes,Large,,
+Virginia,Northumberland,Bush Mill Stream NAP,,37.87920000000,-76.45530000000,No,No,No,Yes,No,Medium,,
+Virginia,Northumberland,Coopers Landing,,37.87190000000,-76.41990000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Northumberland,Glebe Point Landing,,37.85180000000,-76.36460000000,Yes,Yes,No,No,No,Large,,
+Virginia,Accomack,Guards Shore Launching Ramp,,37.84520000000,-75.67750000000,Yes,Yes,Yes,No,No,Large,,
+Virginia,Accomack,Guilford Creek Landing,,37.83720000000,-75.67910000000,Yes,No,No,No,No,Medium,,
+Virginia,Northumberland,Shell Landing,,37.81760000000,-76.28160000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Northumberland,Cranes Creek Landing,,37.81910000000,-76.30810000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Richmond,Simonson Landing,,37.80730000000,-76.63230000000,Yes,Yes,No,No,No,Large,,
+Virginia,King William,Aylett Landing,,37.78190000000,-77.09870000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Isle of Wight,Jones Creek Park,,36.98120000000,-76.56530000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,Prince George,James River NWR,,37.27500000000,-77.11900000000,No,No,No,No,Yes,Shoulder,,
+Virginia,Colonial Heights,White Bank Park,,37.28490000000,-77.37590000000,Yes,Yes,No,No,Yes,Medium,,
+Virginia,New Kent County,Cumberland Marsh N A P,,37.55610000000,-76.96250000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Accomack County,Harborton Landing,,37.66570000000,-75.83120000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Newport News,Denbigh Park Boat Ramp,,37.12370000000,-76.56840000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,Poquoson,Messick Point Landing,,37.10920000000,-76.31940000000,Yes,Yes,No,No,No,Large,,
+Virginia,Poquoson,Amorys Wharf,,37.10710000000,-76.33750000000,No,Yes,No,No,No,Medium,,
+Virginia,Hampton,Grandview Natural Preserve,,37.09870000000,-76.28120000000,No,Yes,Yes,Yes,No,Shoulder,,
+Virginia,Mathews,Potato Neck Landing,,37.37180000000,-76.26000000000,No,Yes,No,No,No,Medium,,
+Virginia,Chesterfield,Point of Rocks Park,,37.32160000000,-77.35490000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Gloucester,John's Point Landing,,37.33230000000,-76.44790000000,No,Yes,No,No,No,Medium,,
+Virginia,Charles City,Lawrence Lewis Park,,37.31870000000,-77.09860000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Hopewell,Hopewell Yacht Club,,37.31070000000,-77.29960000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,Charles City,Chickahominy WMA / Morris Landing,,37.31690000000,-76.88130000000,Yes,Yes,No,Yes,No,Medium,,
+Virginia,Gloucester,Williams Landing,,37.29970000000,-76.53090000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Gloucester,Cherry Point Landing,,37.28970000000,-76.46160000000,No,Yes,No,No,No,Medium,,
+Virginia,Northampton,Cape Charles Public Beach,,37.26850000000,-76.02310000000,No,Yes,Yes,No,No,Shoulder,,
+Virginia,Northampton,Cape Charles Boat Ramp,,37.26500000000,-76.01680000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,Accomack,Onancock Town Ramp & Wharf,,37.71180000000,-75.75520000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,King & Queen,Melrose Landing,,37.63760000000,-76.85450000000,Yes,No,No,No,No,Medium,,
+Virginia,Mathews,Haven Public Landing,,37.45150000000,-76.26450000000,No,No,No,No,No,Medium,,
+Virginia,Chesterfield,Drewry's Bluff - RNBP,,37.42190000000,-77.42260000000,No,No,No,Yes,No,Large,,
+Virginia,Mathews,Haven Beach,,37.43360000000,-76.25290000000,No,No,Yes,No,No,Shoulder,,
+Virginia,Henrico,Deep Bottom Park & Landing,,37.40720000000,-77.30570000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,James City,York River SP/Croaker Landing,,37.42710000000,-76.72680000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,Henrico,Osborne Pike Landing,,37.40070000000,-77.38640000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,Mathews,Town Point Landing,,37.41540000000,-76.33720000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Gloucester,Warehouse Landing,,37.40290000000,-76.49060000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Mathews,Bethel Beach Natural Area Preserve,,37.41690000000,-76.24940000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Henrico,Ft Brady-RNBP,,37.38840000000,-77.36020000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Chesterfield,Dutch Gap Boat Launch,,37.38200000000,-77.37700000000,Yes,Yes,No,No,No,Large,,
+Virginia,Chesterfield,Henricus Historical Park,,37.37670000000,-77.36630000000,No,Yes,No,Yes,No,Large,,
+Virginia,Gloucester,Capahosic Landing,,37.38040000000,-76.63550000000,Yes,Yes,Yes,No,Yes,Shoulder,,
+Virginia,James City,Shipyard Public Landing,,37.36700000000,-76.88930000000,Yes,No,No,No,No,Medium,,
+Virginia,Norfolk,Willoughby Landing,,36.96410000000,-76.28800000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,Isle of Wight,Ragged Island WMA,,36.94660000000,-76.48890000000,No,Yes,No,Yes,No,Large,,
+Virginia,Norfolk,Community Beach East,,36.94620000000,-76.23640000000,No,No,Yes,No,Yes,Medium,,
+Virginia,Norfolk,City Beach,,36.93070000000,-76.18580000000,No,Yes,Yes,No,Yes,Large,,
+Virginia,Lancaster,Belle Isle State Park,,37.77340000000,-76.60080000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,Lancaster,Windmill Point,,37.61470000000,-76.28830000000,No,Yes,Yes,No,No,Shoulder,,
+Virginia,King & Queen,Waterfence Landing,,37.59290000000,-76.79870000000,Yes,No,No,No,No,Medium,,
+Virginia,King William,Lester Manor Landing,,37.58570000000,-76.98970000000,Yes,Yes,No,No,No,Shoulder,,
+Virginia,King William,West Point/Glass Island Landing,,37.54070000000,-76.78930000000,Yes,Yes,No,No,No,Medium,,
+Virginia,King & Queen,Chain Ferry Landing,,37.54720000000,-76.77600000000,Yes,Yes,No,No,No,Shoulder,,
+Virginia,Northampton,Morley's Wharf Boat Ramp,,37.54940000000,-75.87640000000,Yes,Yes,No,No,No,Large,,
+Virginia,Gloucester,Deep Point Landing,,37.53120000000,-76.49210000000,No,Yes,Yes,No,No,Medium,,
+Virginia,Mathews,Hallieford Public Landing,,37.50590000000,-76.35270000000,No,No,Yes,No,No,Medium,,
+Virginia,Mathews,Milford Haven Landing,,37.49300000000,-76.30900000000,Yes,No,No,No,No,Large,,
+Virginia,Gloucester,Tanyard Landing,,37.45480000000,-76.66780000000,Yes,Yes,No,No,No,Medium,,
+Virginia,James City,Jamestown Festival Park,,37.22350000000,-76.78540000000,No,Yes,No,No,Yes,Large,,
+Virginia,York,Back Creek Park,,37.20540000000,-76.43800000000,Yes,No,No,No,Yes,Large,,
+Virginia,York,Old Wormley Creek Landing,,37.20520000000,-76.47080000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,James City,Colonial National Historical Park,,37.19570000000,-76.74930000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Surry,Hog Island WMA,,37.17970000000,-76.69590000000,No,Yes,No,Yes,No,Medium,,
+Virginia,Northampton,Kiptopeke State Park,,37.16720000000,-75.97830000000,Yes,Yes,Yes,Yes,Yes,Large,,
+Virginia,Surry,Lawnes Creek Ramp,,37.13940000000,-76.67630000000,Yes,No,No,No,No,Large,,
+Virginia,York,Tide Mill Boat Landing,,37.13430000000,-76.42960000000,Yes,Yes,No,No,No,Large,,
+Virginia,Chesapeake,Elizabeth River Park,,36.80930000000,-76.28600000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Chesapeake,Deep Creek Locks Park,,36.74710000000,-76.34040000000,Yes,Yes,No,Yes,Yes,Medium,,
+Virginia,Chesapeake,Great Bridge Locks Park,,36.72500000000,-76.24790000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,Norfolk,Haven Creek Boat Ramp,,36.88420000000,-76.28420000000,Yes,No,No,No,No,Medium,,
+Virginia,Norfolk,Lafayette Park,,36.88080000000,-76.27580000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,Norfolk,Virginia Zoological Park,,36.87930000000,-76.27400000000,No,No,No,Yes,Yes,Large,,
+Virginia,Portsmouth,Riverfront Park,,36.83450000000,-76.29630000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Portsmouth,City Park,,36.83370000000,-76.36850000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,Alexandria,Founders Park,,38.80890000000,-77.03910000000,No,Yes,No,Yes,No,Shoulder,,
+Virginia,Alexandria,Torpedo Factory Dock,,38.80670000000,-77.03920000000,Yes,Yes,No,Yes,Yes,Medium,,
+Virginia,Alexandria,Waterfront Park,,38.80420000000,-77.04000000000,No,Yes,No,Yes,No,Shoulder,,
+Virginia,Alexandria,Point Lumley,,38.80250000000,-77.03960000000,No,Yes,No,Yes,No,Shoulder,,
+Virginia,Alexandria,Pommander/Gibbon Street Park,,38.79720000000,-77.03950000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Alexandria,Jones Point Park/Trail,,38.79200000000,-77.04290000000,No,Yes,No,Yes,No,Medium,,
+Virginia,Fairfax,Fort Hunt Park,,38.71700000000,-77.04690000000,No,No,No,Yes,Yes,Large,,
+Virginia,Fairfax,Pohick Bay Regional Park,,38.67390000000,-77.16690000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,Fairfax,Mason Neck State Park,,38.63600000000,-77.18570000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Fairfax,Mason Neck NWR,,38.63650000000,-77.16110000000,No,No,No,Yes,No,Medium,,
+Virginia,Accomack,Johnson's Wharf,,37.79170000000,-75.70690000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Middlesex,Canoe House Landing,,37.75030000000,-76.66180000000,No,Yes,Yes,No,Yes,Medium,,
+Virginia,Arlington,Gravelly Point,,38.86410000000,-77.04170000000,Yes,Yes,No,No,No,Large,,
+Virginia,VA Beach,Cape Henry Lighthouse,,36.92730000000,-76.00560000000,No,No,No,Yes,No,Medium,,
+Virginia,Norfolk,Tarrallton Park,,36.92620000000,-76.21820000000,No,No,No,Yes,Yes,Large,,
+Virginia,VA Beach,First Landing State Park,,36.91040000000,-76.01270000000,Yes,Yes,Yes,Yes,Yes,Large,,
+Virginia,VA Beach,Great Neck Park,,36.88390000000,-76.05980000000,No,No,No,No,Yes,Large,,
+Virginia,VA Beach,Chesapeake Beach,,36.91300000000,-76.11430000000,No,Yes,Yes,No,No,Medium,,
+Virginia,VA Beach,Lynnhaven Municipal Marina,,36.90620000000,-76.08590000000,No,No,No,No,Yes,Large,,
+Virginia,Norfolk,Lakewood Park,,36.89020000000,-76.26680000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Norfolk,Barraud Park,,36.86560000000,-76.26540000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Norfolk,East Ocean View Rec Center,,36.92640000000,-76.19490000000,No,Yes,Yes,Yes,Yes,Large,,
+Virginia,Norfolk,Ocean View Beach,,36.95590000000,-76.25370000000,No,No,Yes,Yes,No,Large,,
+Virginia,Norfolk,Sarah Constant Park & Beach,,36.96020000000,-76.26030000000,No,Yes,Yes,Yes,Yes,Medium,,
+Virginia,Suffolk,Constants Wharf,,36.73850000000,-76.58390000000,Yes,No,No,No,No,Large,,
+Virginia,Suffolk,Lone Star Lakes Park,,36.86380000000,-76.57180000000,Yes,No,Yes,Yes,Yes,Medium,,
+Virginia,Suffolk,Sleepy Hole Park,,36.83430000000,-76.51940000000,No,Yes,No,Yes,Yes,Medium,,
+Virginia,Suffolk,Bennetts Creek Park,,36.85090000000,-76.48300000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,Isle of Wight,Carrollton Nike Park,,36.96160000000,-76.56370000000,No,Yes,No,Yes,Yes,Medium,,
+Virginia,Isle of Wight,Fort Boykin Park,,37.03510000000,-76.61830000000,No,Yes,Yes,No,No,Large,,
+Virginia,Newport News,Hilton Fishing Pier & Beach,,37.02880000000,-76.46860000000,No,Yes,Yes,No,Yes,Medium,,
+Virginia,Newport News,Christopher Newport Park,,36.97790000000,-76.43390000000,No,No,No,No,No,Medium,,
+Virginia,Newport News,King-Lincoln Park,,36.96890000000,-76.41130000000,No,Yes,Yes,No,Yes,Large,,
+Virginia,Surry,Chippokes Plantation State Park,,37.14490000000,-76.74090000000,No,Yes,No,Yes,Yes,Medium,,
+Virginia,York,Yorktown Waterfront,,37.23450000000,-76.50470000000,No,Yes,Yes,Yes,Yes,Large,,
+Virginia,Middlesex,Upper Mill Creek Landing,,37.58350000000,-76.42460000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Middlesex,Oaks/Saluda Landing,,37.62230000000,-76.58230000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Prince William,Leesylvania State Park,,38.59110000000,-77.24900000000,Yes,Yes,No,Yes,Yes,Large,,
+Virginia,Prince William,Featherstone NWR,,38.62620000000,-77.24910000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Fairfax,Gunston Hall Plantation,,38.66580000000,-77.15350000000,No,Yes,No,No,Yes,Large,,
+Virginia,Fairfax,Washington's Mill Historical SP,,38.71050000000,-77.11680000000,No,No,No,No,Yes,Medium,,
+Virginia,Fairfax,Martin Luther King Jr. Park,,38.71460000000,-77.04890000000,No,No,No,Yes,Yes,Large,,
+Virginia,Fairfax,Belle Haven Marina,,38.77650000000,-77.04790000000,Yes,Yes,No,No,Yes,Large,,
+Virginia,Fairfax,Dyke Marsh,,38.76590000000,-77.05340000000,No,No,No,Yes,Yes,Medium,,
+Virginia,Alexandria,Four Mile Run Park/Trail,,38.83750000000,-77.05920000000,Yes,Yes,No,Yes,No,Large,,
+Virginia,King George,Caledon SP/Natural Area,,38.36090000000,-77.14490000000,No,No,No,Yes,Yes,Medium,,
+Virginia,Richmond,Great Shiplock Park,,37.52610000000,-77.42060000000,No,Yes,No,Yes,No,Large,,
+Virginia,Richmond,City Dock,,37.52330000000,-77.41880000000,No,Yes,No,No,No,Large,,
+Virginia,Richmond,Ancarrow's Landing,,37.52060000000,-77.42130000000,Yes,Yes,No,No,No,Large,,
+Virginia,Hopewell,City Point Park - PNBP,,37.31680000000,-77.27700000000,No,Yes,No,Yes,Yes,Large,,
+Virginia,Norfolk,Town Point Park & Esplanade,,36.84650000000,-76.29420000000,No,No,No,Yes,Yes,Large,,
+Virginia,Chesapeake,Western Branch Park,,36.85010000000,-76.38910000000,No,Yes,No,Yes,No,Medium,,
+Virginia,Northumberland,Cedar Point Landing,,37.87100000000,-76.40290000000,No,Yes,No,No,No,Medium,,
+Virginia,Northumberland,Vir-Mar Beach,,37.93170000000,-76.31190000000,No,Yes,Yes,No,No,Medium,,
+Virginia,Essex,Wares Wharf,,37.87000000000,-76.78500000000,No,Yes,Yes,No,No,Shoulder,,
+Virginia,Westmoreland,Bonums Landing,,38.09110000000,-76.58390000000,Yes,Yes,No,No,No,Medium,,
+Virginia,King George,Wilmont Wharf,,38.15530000000,-77.07120000000,Yes,Yes,No,No,No,Medium,,
+Virginia,Westmoreland,Colonial Beach Landing,,38.23030000000,-76.96390000000,Yes,Yes,Yes,No,Yes,Medium,,
+Virginia,King George,Wayside Park,,38.36020000000,-77.01530000000,No,Yes,Yes,Yes,No,Medium,,
+Virginia,Matthews County,New Point Comfort N A P,,37.31530000000,-76.27650000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Lancaster County,Hickory Hollow N A P,,37.77020000000,-76.47870000000,No,No,No,Yes,No,Shoulder,,
+Virginia,Spotsylvania,DGIF Landing-Rappahannock,,38.31360000000,-77.54070000000,Yes,No,No,No,,,,Public - State
+Virginia,Spotsylvania,Elys Ford Boat Landing,,38.35910000000,-77.68540000000,Yes,No,No,No,,,,Public - State
+Virginia,Spotsylvania,Lake Anna State Park Boat,,38.11350000000,-77.83570000000,Yes,No,No,No,,,,Public - State
+Virginia,Loudoun,McKimmey (Point of Rocks),Potomac River,39.27260000000,-77.54710000000,Yes,No,No,No,,,,DGIF
+Virginia,Clarke,Castleman's Ferry,Shenandoah River,39.12390000000,-77.89110000000,Yes,No,No,No,,,,DGIF
+Virginia,Clarke,Lockes,Shenandoah River,39.10160000000,-77.96480000000,Yes,No,No,No,,,,DGIF
+Virginia,Clarke,Berry's,S. Fork Shenandoah River,39.04130000000,-77.99850000000,Yes,No,No,No,,,,DGIF
+Virginia,Warren,Riverton,N. Fork Shenandoah River,38.94960000000,-78.19810000000,Yes,No,No,No,,,,DGIF
+Virginia,Warren,Front Royal,Shenandoah River,38.91350000000,-78.20970000000,No,Yes,No,No,,,,DGIF
+Virginia,Warren,Morgan's Ford,Shenandoah River,38.95780000000,-78.12170000000,No,Yes,No,No,,,,DGIF
+Virginia,Warren,Bentonville,S. Fork Shenandoah River,38.84050000000,-78.32910000000,No,Yes,No,No,,,,DGIF
+Virginia,Warren,Karo,S. Fork Shenandoah River,38.87150000000,-78.25260000000,No,Yes,No,No,,,,DGIF
+Virginia,Warren,Catletts Ford Landing,N. Fork Shenandoah River,38.97850000000,-78.25870000000,No,Yes,No,No,,,,DGIF
+Virginia,Warren,Simpson's Landing,Shenandoah River (South),38.87860000000,-78.26180000000,No,Yes,No,No,,,,DGIF
+Virginia,Rockingham,Port Republic,S. Fork Shenandoah River,38.29590000000,-78.80810000000,No,Yes,No,No,,,,DGIF
+Virginia,Rockingham,Elkton,S. Fork Shenandoah River,38.40940000000,-78.63500000000,Yes,No,No,No,,,,DGIF
+Virginia,Rockingham,Island Ford,S. Fork Shenandoah River,38.35490000000,-78.69570000000,No,Yes,No,No,,,,DGIF
+Virginia,Page,Shenandoah Riverside,S. Fork Shenandoah River,38.48040000000,-78.62370000000,Yes,No,No,No,,,,DGIF
+Virginia,Page,Grove Hill,S. Fork Shenandoah River,38.52740000000,-78.59470000000,No,Yes,No,No,,,,DGIF
+Virginia,Page,Newport,S. Fork Shenandoah River,38.58310000000,-78.59440000000,No,Yes,No,No,,,,DGIF
+Virginia,Page,Alma,S. Fork Shenandoah River,38.58880000000,-78.56580000000,No,Yes,No,No,,,,DGIF
+Virginia,Page,White House,S. Fork Shenandoah River,38.64610000000,-78.53450000000,Yes,No,No,No,,,,DGIF
+Virginia,Page,Massanutten,S. Fork Shenandoah River,38.67240000000,-78.52910000000,Yes,No,No,No,,,,DGIF
+Virginia,Page,Inskeep,S. Fork Shenandoah River,38.70150000000,-78.49170000000,Yes,No,No,No,,,,DGIF
+Virginia,Page,Fosters,S. Fork Shenandoah River,38.77030000000,-78.42250000000,Yes,No,No,No,,,,DGIF
+Virginia,Culpeper,Kelly's Ford,Rappahannock River,38.47700000000,-77.78080000000,Yes,No,No,No,,,,DGIF
+Virginia,Spotsylvania,Elys Ford,Rapidan River,38.35930000000,-77.68550000000,Yes,No,No,No,,,,DGIF
+Virginia,Spotsylvania,Motts Run,Rappahannock River,38.31370000000,-77.54060000000,Yes,No,No,No,,,,DGIF
+Virginia,Westmoreland,Gardy's Mill Pond,Gardy's Mill Pont,38.00220000000,-76.60320000000,Yes,No,No,No,,,,DGIF
+Virginia,Albemarle,Scottsville,James River,37.79700000000,-78.49330000000,Yes,No,No,No,,,,DGIF
+Virginia,Richmond,Carter's Wharf,Rappahannock River,38.07130000000,-76.92380000000,Yes,No,No,No,,,,DGIF
+Virginia,Rockbridge,VMI Route 60 Bridge,Maury River,37.74560000000,-79.37060000000,No,Yes,No,No,,,,DGIF
+Virginia,Rockbridge,Locker Landing,Maury River,37.62470000000,-79.44440000000,No,Yes,No,No,,,,DGIF
+Virginia,Northumberland,Coopers,Great Wicomico River,37.87130000000,-76.41950000000,Yes,No,No,No,,,,DGIF
+Virginia,Northumberland,Shell,Cockerell Creek,37.82460000000,-76.27160000000,Yes,No,No,No,,,,DGIF
+Virginia,Northumberland,Lodge Landing,Yeocomico River,37.99320000000,-76.54030000000,Yes,No,No,No,,,,DGIF
+Virginia,Nelson,Wingina,James River,37.63600000000,-78.71990000000,Yes,No,No,No,,,,DGIF
+Virginia,Nelson,Midway,James River,37.66920000000,-78.71470000000,Yes,No,No,No,,,,DGIF
+Virginia,Fluvanna,Hardware River,James River,37.74030000000,-78.40780000000,Yes,No,No,No,,,,DGIF
+Virginia,Fluvanna,Palmyra,Rivanna River,37.85780000000,-78.26680000000,No,Yes,No,No,,,,DGIF
+Virginia,Fluvanna,Crofton,Rivanna River,37.91870000000,-78.29760000000,Yes,No,No,No,,,,DGIF
+Virginia,King & Queen,Melrose,Mattaponi River,37.63720000000,-76.85500000000,Yes,No,No,No,,,,DGIF
+Virginia,Alleghany,Petticoat Junction,Jackson River,37.84210000000,-79.98880000000,Yes,No,No,No,,,,DGIF
+Virginia,Alleghany,Indian Draft,Jackson River,37.86870000000,-79.98930000000,No,Yes,No,No,,,,DGIF
+Virginia,Alleghany,Johnson Spring,Jackson River,37.91510000000,-79.97240000000,No,Yes,No,No,,,,DGIF
+Virginia,Alleghany,Island Ford II,Jackson River,37.77920000000,-79.93350000000,No,Yes,No,No,,,,DGIF
+Virginia,Alleghany,Low Moor,Jackson River,37.80010000000,-79.87130000000,No,Yes,No,No,,,,DGIF
+Virginia,Goochland,West View,James River,37.64250000000,-78.01040000000,Yes,No,No,No,,,,DGIF
+Virginia,Amhurst,Snowden,James River,37.59690000000,-79.38930000000,Yes,No,No,No,,,,DGIF
+Virginia,Middlesex,Saluda,Rappahannock River,37.62260000000,-76.58160000000,Yes,No,No,No,,,,DGIF
+Virginia,Botetourt,Springwood,James River,37.54770000000,-79.74250000000,No,Yes,No,No,,,,DGIF
+Virginia,Botetourt,Buchanan,James River,37.53000000000,-79.67940000000,Yes,No,No,No,,,,DGIF
+Virginia,Botetourt,Arcadia,James River,37.55460000000,-79.63720000000,No,Yes,No,No,,,,DGIF
+Virginia,Botetourt,Irongate,James River,37.77390000000,-79.78270000000,No,Yes,No,No,,,,DGIF
+Virginia,Botetourt,Horseshoe Bend,James River,37.58910000000,-79.72780000000,Yes,No,No,No,,,,DGIF
+Virginia,Botetourt,Craig Creek,James River,37.64580000000,-79.81450000000,No,Yes,No,No,,,,DGIF
+Virginia,Buckingham,New Canton,James River,37.70970000000,-78.29980000000,Yes,No,No,No,,,,DGIF
+Virginia,Cumberland,Columbia,James River,37.74940000000,-78.16280000000,Yes,No,No,No,,,,DGIF
+Virginia,Cumberland,Cartersville,James River,37.66950000000,-78.08690000000,Yes,No,No,No,,,,DGIF
+Virginia,Henrico,Osborne Pike Landing,James River,37.40090000000,-77.38580000000,Yes,No,No,No,,,,DGIF
+Virginia,Richmond City,Huguenot Bridge,James River,37.56050000000,-77.54590000000,Yes,No,No,No,,,,DGIF
+Virginia,Powhatan,Beaumont,James River,37.66450000000,-77.89050000000,Yes,No,No,No,,,,DGIF
+Virginia,Powhatan,Watkins Landing,James River,37.58830000000,-77.71290000000,Yes,No,No,No,,,,DGIF
+Virginia,Bedford,Reed Creek Landing,Jame River,37.52470000000,-79.34990000000,Yes,No,No,No,,,,DGIF
+Virginia,Chesterfield,Robious Landing,James River,37.55910000000,-77.64740000000,Yes,No,No,No,,,,DGIF
+Virginia,Appomattox,Bent Creek,James River,37.53550000000,-78.82790000000,Yes,No,No,No,,,,DGIF
+Virginia,Charles City,Morris Creek,Chickahominy River,37.30010000000,-76.89910000000,Yes,No,No,No,,,,DGIF
+Virginia,James City,Diascund Landing,Diascund Creek Reservior,37.42970000000,-76.89080000000,Yes,No,No,No,,,,DGIF
+Virginia,Campbell,Joshua Falls,James River,37.41930000000,-79.04060000000,Yes,No,No,No,,,,DGIF
+Virginia,Dinwiddie,Lake Chesdin,Lake Chesdin,37.22100000000,-77.52840000000,Yes,No,No,No,,,,DGIF
+Virginia,Surry,Lawnes Creek,James River,37.13920000000,-76.67590000000,Yes,No,No,No,,,,DGIF
+Virginia,Suffolk,Western Branch,W. Branch Reservoir,36.80830000000,-76.61870000000,Yes,No,No,No,,,,DGIF
+Virginia,Suffolk,Butler Tract Lake,Butler Tract Lake,36.86950000000,-76.57550000000,Yes,No,No,No,,,,DGIF
+Virginia,King George,Hopyard Landing,Rappahannock River,38.24430000000,-77.22580000000,Yes,No,No,No,,,,DGIF
+Pennsylvania,Cameron,Emporium,Driftwood Branch,41.50570000000,-78.23600000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Lycoming,Ross Run,Pine Creek,41.42020000000,-77.48880000000,,No,No,No,,Fewer than 10 spaces,,PA Forestry
+Pennsylvania,Dauphin,Swatara Park,Swatara Creek,40.28650000000,-76.67870000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Perry,Newport,Juniata River,40.47920000000,-77.12960000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Snyder,Isle of Que,Susquehanna River,40.79770000000,-76.85370000000,,Yes,No,No,,Roadside Parking (N*,,Unknown
+Pennsylvania,Lycoming,Torbert Canoe Access,Pine Creek,41.21980000000,-77.32040000000,,No,No,No,,Roadside Parking (N*,,PA Forestry
+Pennsylvania,Huntingdon,Mt. Union,Juniata River,40.38610000000,-77.87330000000,,No,No,No,,Roadside Parking (N*,,Unknown
+Pennsylvania,Lancaster,Conestoga Drive North,Conestoga River,40.04370000000,-76.27460000000,,Yes,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Cumberland,Wormleysburg,Susquehanna River,40.25810000000,-76.90170000000,,No,No,No,,Fewer than 10 spaces,,Unknown
+Pennsylvania,Lancaster,Windolph Landing,Conestoga River,40.00050000000,-76.32210000000,,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Lancaster,River Road,Conestoga River,39.93140000000,-76.38420000000,,Yes,No,No,,10 spaces or more,,Unknown
+Pennsylvania,Lancaster,Holtwood Recreation Area,Susquehanna River,39.83170000000,-76.33390000000,,No,No,No,,Roadside Parking (N*,,PPL
+Pennsylvania,Dauphin,City Island,Susquehanna River,40.25220000000,-76.88420000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Clearfield,Deer Creek,Susquehanna River - West Branch,41.07720000000,-78.23560000000,Yes,No,No,No,,Roadside Parking (N*,,PFBC
+Pennsylvania,Dauphin,Halifax,Susquehanna River,40.49780000000,-76.94650000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Lancaster,Rockford Road,Conestoga River,40.02320000000,-76.29100000000,,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Northumberland,Watsontown,Susquehanna River - West Branch,41.07440000000,-76.85530000000,Yes,Yes,No,No,,Fewer than 10 spaces,,PFBC
+Pennsylvania,Snyder,Hoovers Island,Susquehanna River,40.75030000000,-76.85810000000,Yes,Yes,No,No,,Fewer than 10 spaces,,PGC
+Pennsylvania,Columbia,Bloomsburg,"Susquehanna River, North Branch",40.99690000000,-76.43240000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Bradford,Terrytown,"Susquehanna River, North Branch",41.69440000000,-76.28190000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,York,Muddy Creek,Susquehanna River,39.79860000000,-76.30610000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Lancaster,Marietta,Susquehanna River,40.05690000000,-76.53560000000,Yes,Yes,No,No,,10 spaces or more,,County
+Pennsylvania,Snyder,PFBC Isle of Que,Susquehanna River,40.78830000000,-76.85690000000,Yes,Yes,No,No,,Fewer than 10 spaces,,PFBC
+Pennsylvania,Northumberland,Sunbury,Susquehanna River,40.84790000000,-76.80420000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Perry,Amity Hall,Juniata River,40.43110000000,-77.01280000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Juniata,Lewistown Narrows,Juniata River,40.60440000000,-77.47030000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Tioga,Tiadaghton,Pine Creek,41.64590000000,-77.44420000000,,No,No,No,,Roadside Parking (N*,,PA Forestry
+Pennsylvania,Clinton,Lock Haven,Susquehanna River - West Branch,41.13980000000,-77.43760000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Lycoming,Susquehanna State Park,Susquehanna River - West Branch,41.22640000000,-77.04690000000,Yes,Yes,No,No,,10 spaces or more,,State Parks
+Pennsylvania,Lancaster,Columbia,Susquehanna River,40.03070000000,-76.50910000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Juniata,Muskrat Springs,Juniata River,40.53500000000,-77.29940000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Northumberland,Chillisquaque,Susquehanna River - West Branch,40.94220000000,-76.86470000000,Yes,No,No,No,,Fewer than 10 spaces,,PFBC
+Pennsylvania,Montour,Danville,"Susquehanna River, North Branch",40.94360000000,-76.59950000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Dauphin,Access at Keller Fields,Swatara Creek,40.27280000000,-76.71910000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Juniata,Mifflin Fire Dept Access,Juniata River,40.56900000000,-77.40100000000,Yes,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Lancaster,"Perelman Park, Paper Mill Road",Conestoga River,40.08030000000,-76.26030000000,,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,York,Hellam Township,Susquehanna River,40.04720000000,-76.55190000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Bradford,Tozer's Landing,Chemung River,41.98550000000,-76.55330000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Clinton,Hyner,Susquehanna River - West Branch,41.32360000000,-77.63640000000,Yes,Yes,No,No,,Roadside Parking (N*,,PFBC
+Pennsylvania,Huntingdon,Rails to Trails Lower Trail,"Juniata River, Frankstown Branch",40.56610000000,-78.12070000000,,Yes,No,No,,10 spaces or more,,County
+Pennsylvania,Blair,Rails to Trails Lower Trail,"Juniata River, Frankstown Branch",40.46240000000,-78.19450000000,,Yes,No,No,,10 spaces or more,,County
+Pennsylvania,Huntingdon,Point Access,"Juniata River, Raystown Branch",40.45580000000,-77.97750000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Perry,Marysville Boro,Susquehanna River,40.33960000000,-76.92270000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,York,Goldsboro,Susquehanna River,40.16110000000,-76.74890000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Columbia,Test Track Park,"Susquehanna River, North Branch",41.04000000000,-76.26100000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Lycoming,Linden Access,Susquehanna River - West Branch,41.22580000000,-77.10750000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Union,Unnamed,Susquehanna River - West Branch,41.12480000000,-76.89580000000,Yes,Yes,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Juniata,Thompsontown,Juniata River,40.55470000000,-77.23610000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Northumberland,Milton State Park,Susquehanna River - West Branch,41.01680000000,-76.85920000000,Yes,Yes,No,No,,10 spaces or more,,State Parks
+Pennsylvania,Cumberland,Locust Street,Susquehanna River,40.25420000000,-76.89720000000,Yes,Yes,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Centre,Karthaus,Susquehanna River - West Branch,41.11470000000,-78.11090000000,Yes,No,No,No,,10 spaces or more,,PA Forestry
+Pennsylvania,Susquehanna,Oakland,"Susquehanna River, North Branch",41.98600000000,-75.60120000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Lycoming,Bonnell Flats,Pine Creek,41.27800000000,-77.31880000000,,No,No,No,,Roadside Parking (N*,,PA Forestry
+Pennsylvania,Huntingdon,Alfarata,"Juniata River, Frankstown Branch",40.56660000000,-78.12220000000,,No,No,No,,10 spaces or more,,Unknown
+Pennsylvania,Cameron,Sterling Run,Driftwood Branch,41.44530000000,-78.18750000000,,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Clinton,North Bend,Susquehanna River - West Branch,41.34190000000,-77.70190000000,Yes,Yes,No,No,,Roadside Parking (N*,,PFBC
+Pennsylvania,Clinton,Pine Creek,Susquehanna River - West Branch,41.16390000000,-77.32580000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Huntingdon,Smithfield,Juniata River,40.48410000000,-78.01760000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Dauphin,Halifax Boro,Susquehanna River,40.47430000000,-76.93130000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Northumberland,Northumberland Point,Susquehanna River - Lake Augusta,40.88440000000,-76.79700000000,,No,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Lancaster,Slackwater,Conestoga River,39.98330000000,-76.35720000000,,Yes,No,No,,Fewer than 10 spaces,,PFBC
+Pennsylvania,Wyoming,West Falls,"Susquehanna River, North Branch",41.45940000000,-75.85330000000,,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Wyoming,Whites Ferry,"Susquehanna River, North Branch",41.47760000000,-75.90550000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Dauphin,Hanover Street Bridge,Swatara Creek,40.26950000000,-76.70670000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Bedford,Cypher Roller Rink,Juniata River - Raystown Branch,40.08550000000,-78.29250000000,,No,No,No,,Roadside Parking (N*,,Unknown
+Pennsylvania,Huntingdon,Rothrock State Forest,Little Juniata River,40.59180000000,-78.11020000000,,No,No,No,,Roadside Parking (N*,,Unknown
+Pennsylvania,Lycoming,Slate Run,Pine Creek,41.47100000000,-77.50250000000,,No,No,No,,Fewer than 10 spaces,,PA Forestry
+Pennsylvania,Snyder,Shady Nook,Susquehanna River,40.82290000000,-76.83930000000,Yes,Yes,No,No,,10 spaces or more,,PPL
+Pennsylvania,Lycoming,Clark Farm,Pine Creek,41.43100000000,-77.49300000000,Yes,Yes,No,No,,Roadside Parking (N*,,PA Forestry
+Pennsylvania,Tioga,Blackwell,Pine Creek,41.55610000000,-77.38210000000,Yes,Yes,No,No,,10 spaces or more,,PA Forestry
+Pennsylvania,Huntingdon,Weaver's Falls,Raystown Lake,40.24240000000,-78.23220000000,Yes,Yes,No,No,,10 spaces or more,,COE
+Pennsylvania,Huntingdon,Tatman Run,Raystown Lake,40.31050000000,-78.17440000000,Yes,Yes,No,No,,10 spaces or more,,COE
+Pennsylvania,Juniata,Mifflintown,Juniata River,40.59470000000,-77.41530000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Luzerne,Nesbit Park,"Susquehanna River, North Branch",41.25240000000,-75.88370000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Wyoming,Meshoppen,"Susquehanna River, North Branch",41.60870000000,-76.04750000000,Yes,No,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Bradford,Riverfront,"Susquehanna River, North Branch",41.97280000000,-76.51210000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Huntingdon,Corbin's Island,"Juniata River, Raystown Branch",40.43290000000,-77.99400000000,Yes,Yes,No,No,,10 spaces or more,,COE
+Pennsylvania,Lycoming,Muncy,Susquehanna River - West Branch,41.20640000000,-76.80110000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,York,York Furnace,Susquehanna River,39.87260000000,-76.38020000000,Yes,Yes,No,No,,10 spaces or more,,PPL
+Pennsylvania,Luzerne,Union Township,"Susquehanna River, North Branch",41.17790000000,-76.11140000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Wyoming,Tunkhannock Park,"Susquehanna River, North Branch",41.53530000000,-75.95570000000,,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Bedford,Everett Ball Fields,Juniata River - Raystown Branch,40.00870000000,-78.35710000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Lancaster,Creek Drive South,Conestoga River,39.99620000000,-76.34590000000,,Yes,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Lancaster,Rockford Road,Conestoga River,40.02800000000,-76.29620000000,,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Lancaster,"Conestoga Drive, Conestoga Greenway",Conestoga River,40.03400000000,-76.28060000000,,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Dauphin,Middletown,Susquehanna River/Swatara Creek,40.18610000000,-76.73310000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Tioga,Ansonia,Pine Creek,41.74530000000,-77.42830000000,Yes,Yes,No,No,,10 spaces or more,,PA Forestry
+Pennsylvania,Cameron,Sinnemahoning,Main Branch of Sinnemahoning Creek,41.31400000000,-78.07700000000,Yes,No,No,No,,Fewer than 10 spaces,,PADOT
+Pennsylvania,Lycoming,Jersey Shore Boat Club,Susquehanna River - West Branch,41.20120000000,-77.25270000000,,Yes,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Northumberland,Sunbury Boro,Susquehanna River - Lake Augusta,40.87180000000,-76.79270000000,Yes,Yes,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Clearfield,Lower Witmer Park Borough Access,Susquehanna River - West Branch,41.02340000000,-78.44080000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Blair,Williamsburg,"Juniata River, Frankstown Branch",40.46160000000,-78.19800000000,,No,No,No,,Roadside Parking (N*,,Unknown
+Pennsylvania,Huntingdon,Portstown Park,Juniata River,40.48450000000,-78.01530000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Lycoming,Gamble Run,Pine Creek,41.50750000000,-77.45640000000,,No,No,No,,Fewer than 10 spaces,,PA Forestry
+Pennsylvania,Lycoming,Jersey Shore Boat Club,Susquehanna River - West Branch,41.20120000000,-77.25270000000,,Yes,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Lancaster,Rockhill Access,Conestoga River,39.96170000000,-76.36460000000,,Yes,No,No,,Fewer than 10 spaces,,PFBC
+Pennsylvania,Bradford,Towanda Riverside Park W,"Susquehanna River, North Branch",41.76690000000,-76.44200000000,,Yes,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Bradford,Homet∆s Ferry Right (Old Mill Park),"Susquehanna River, North Branch",41.69760000000,-76.32950000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Bradford,PA Game Commission SGL# 237,"Susquehanna River, North Branch",41.66660000000,-76.27810000000,,Yes,No,No,,Fewer than 10 spaces,,PGC
+Pennsylvania,Northumberland,Shikellamy State Park North,Susquehanna River - Lake Augusta,40.88340000000,-76.79280000000,,No,No,No,,10 spaces or more,,State Parks
+Pennsylvania,Dauphin,Hummel Nature Trail,Swatara Creek,40.26370000000,-76.72280000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Bedford,Cypher Bridge,Juniata River - Raystown Branch,40.09110000000,-78.29430000000,,No,No,No,,Roadside Parking (N*,,Unknown
+Pennsylvania,Huntingdon,Route 305 Bridge,Little Juniata River,40.56370000000,-78.06830000000,,No,No,No,,Roadside Parking (N*,,Unknown
+Pennsylvania,Susquehanna,Susquehanna Depot,"Susquehanna River, North Branch",41.94760000000,-75.60720000000,,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Northumberland,Watsontown Borough,Susquehanna River - West Branch,41.08130000000,-76.86330000000,,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Lycoming,Black Walnut Bottom,Pine Creek,41.44490000000,-77.51760000000,Yes,Yes,No,No,,Roadside Parking (N*,,PA Forestry
+Pennsylvania,Huntingdon,Little Juniata R. Natural Area,Little Juniata River,40.58910000000,-78.10810000000,,Yes,No,No,,10 spaces or more,,State Parks
+Pennsylvania,Clinton,Bald Eagle,Bald Eagle Creek,41.11190000000,-77.50190000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Huntingdon,DCNR/Forestry Shawmut Access,Juniata River,40.36490000000,-77.81500000000,Yes,Yes,No,No,,10 spaces or more,,PA Forestry
+Pennsylvania,Union,Great Stream Commons,Susquehanna River - West Branch,41.11180000000,-76.89270000000,Yes,Yes,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Luzerne,Hanover Township Access,"Susquehanna River, North Branch",41.23800000000,-75.93050000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Bradford,Larnard Hornbrook Park,"Susquehanna River, North Branch",41.80690000000,-76.48630000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Luzerne,Shickshinny,"Susquehanna River, North Branch",41.15310000000,-76.14690000000,,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Columbia,Mifflinville,"Susquehanna River, North Branch",41.03440000000,-76.30960000000,,No,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Columbia,Columbia Park,"Susquehanna River, North Branch",41.02730000000,-76.33300000000,,No,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Columbia,Espy Park,"Susquehanna River, North Branch",41.00520000000,-76.40920000000,,No,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Montour,Montgomery Park,"Susquehanna River, North Branch",40.95920000000,-76.61950000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Luzerne,Canal Park,"Susquehanna River, North Branch",41.22010000000,-76.01840000000,,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Luzerne,Hunlock Township,"Susquehanna River, North Branch",41.21120000000,-76.04410000000,Yes,No,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Northumberland,Unnamed,Susquehanna River - West Branch,41.06850000000,-76.85390000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Perry,Marysville Boro Schrauder Park,Susquehanna River,40.33110000000,-76.91400000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Bradford,Ulster,"Susquehanna River, North Branch",41.84920000000,-76.49790000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Northumberland,Pineknotter Point,Susquehanna River - Lake Augusta,40.88510000000,-76.79770000000,,No,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Dauphin,City Island New,Susquehanna River,40.25370000000,-76.88870000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Bradford,Wysox,"Susquehanna River, North Branch",41.75380000000,-76.41070000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Mifflin,Granville,Juniata River,40.55530000000,-77.59610000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Mifflin,Lewistown/Victory Park,Juniata River,40.59470000000,-77.58110000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Lycoming,Hamilton Bottom,Pine Creek,41.34570000000,-77.39990000000,Yes,Yes,No,No,,Roadside Parking (N*,,PA Forestry
+Pennsylvania,Lycoming,Greevy,Susquehanna River - West Branch,41.24530000000,-76.96470000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Huntingdon,Mapleton Access,Juniata River,40.39550000000,-77.93040000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Mifflin,Newton Hamilton,Juniata River,40.39250000000,-77.83420000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Lycoming,Montgomery,Susquehanna River - West Branch,41.16720000000,-76.87060000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Lancaster,Falmouth,Susquehanna River,40.11920000000,-76.70970000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Lancaster,Riverview Park,Susquehanna River,40.05860000000,-76.61140000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Juniata,Walker,Juniata River,40.53190000000,-77.35690000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Perry,Clemson Island,Susquehanna River,40.46200000000,-76.95310000000,Yes,Yes,No,No,,10 spaces or more,,PGC
+Pennsylvania,Bradford,Susquehanna St Bridge,"Susquehanna River, North Branch",41.95770000000,-76.51640000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Bradford,Homet∆s Ferry Left,"Susquehanna River, North Branch",41.69770000000,-76.32690000000,,No,No,No,,Roadside Parking (N*,,PADOT
+Pennsylvania,Columbia,Bloomsburg Town Park,"Susquehanna River, North Branch",40.98900000000,-76.45100000000,,No,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Northumberland,Shikellamy State Park South,Susquehanna River - Lake Augusta,40.88020000000,-76.78990000000,Yes,Yes,No,No,,10 spaces or more,,State Parks
+Pennsylvania,Wyoming,Laceyville,"Susquehanna River, North Branch",41.64350000000,-76.16010000000,,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Lebanon,Waterworks,Swatara Creek,40.37360000000,-76.53610000000,,Yes,No,No,,Fewer than 10 spaces,,PFBC
+Pennsylvania,Dauphin,Boathouse Park,Swatara Creek,40.30640000000,-76.66680000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Dauphin,Fort Hunter Access,Susquehanna River,40.34350000000,-76.91120000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,York,New Market,Susquehanna River,40.22390000000,-76.85020000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,York,Conewago Boat Launch,Conewago Creek/Susquehanna River,40.11210000000,-76.70940000000,Yes,Yes,No,No,,Roadside Parking (N*,,PPL
+Pennsylvania,Bradford,Sayre,"Susquehanna River, North Branch",41.99580000000,-76.47330000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Bradford,Wysox Township Access,"Susquehanna River, North Branch",41.76750000000,-76.39830000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Perry,PFBC Liverpool Access,Susquehanna River,40.58030000000,-76.97970000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Perry,Greenwood,Juniata River,40.53060000000,-77.14190000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Susquehanna,Great Bend Twp/Hallstead,"Susquehanna River, North Branch",41.96310000000,-75.74140000000,Yes,Yes,No,No,,Fewer than 10 spaces,,PFBC
+Pennsylvania,Wyoming,Tunkhannock,"Susquehanna River, North Branch",41.52220000000,-75.94130000000,,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Luzerne,Apple Tree Road,"Susquehanna River, North Branch",41.38780000000,-75.82350000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Susquehanna,Great Bend Boro Access,"Susquehanna River, North Branch",41.97170000000,-75.74750000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Susquehanna,Great Bend,"Susquehanna River, North Branch",41.96080000000,-75.66240000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Bedford,Ritchey Bridge,Juniata River - Raystown Branch,40.05260000000,-78.32540000000,,No,No,No,,Roadside Parking (N*,,Unknown
+Pennsylvania,Bedford,Warriors Path State Park,Juniata River - Raystown Branch,40.19710000000,-78.25160000000,Yes,No,No,No,,10 spaces or more,,Unknown
+Pennsylvania,Bedford,Saxton VFW Park,Juniata River - Raystown Branch,40.22090000000,-78.25300000000,,No,No,No,,Roadside Parking (N*,,Unknown
+Pennsylvania,Lancaster,River Road,Conestoga River,39.93600000000,-76.38610000000,,Yes,No,No,,10 spaces or more,,Unknown
+Pennsylvania,Lancaster,Conestoga Pines Park,Conestoga River,40.05220000000,-76.27220000000,,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Perry,Liverpool Access,Susquehanna River,40.56810000000,-76.99230000000,Yes,No,No,No,,Fewer than 10 spaces,,Unknown
+Pennsylvania,Lancaster,Conoy Picnic Area,Susquehanna River,40.10750000000,-76.68770000000,Yes,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Lancaster,Chestnut Street,Susquehanna River,40.05510000000,-76.55140000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,York,Otter Creek Campground,Susquehanna River,39.87740000000,-76.38130000000,,No,No,No,,Fewer than 10 spaces,,PPL
+Pennsylvania,Union,St. George St.,Susquehanna River - West Branch,40.96340000000,-76.87920000000,,No,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,York,Lock 12 Historic Area,Susquehanna River,39.81430000000,-76.32710000000,,No,No,No,,Fewer than 10 spaces,,PPL
+Pennsylvania,Dauphin,Haldeman Island,Susquehanna River,40.42350000000,-77.00460000000,,No,No,No,,Roadside Parking (N*,,PGC
+Pennsylvania,Perry,Howe Twp Park,Juniata River,40.49190000000,-77.09670000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Dauphin,Dauphin Boro,Susquehanna River,40.36550000000,-76.93430000000,,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Perry,Millerstown,Juniata River,40.54000000000,-77.14970000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Cumberland,West Fairview Point,Susquehanna River,40.27210000000,-76.91410000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Lycoming,Rattlesnake Rock,Pine Creek,41.54060000000,-77.40520000000,,No,No,No,,Roadside Parking (N*,,PA Forestry
+Pennsylvania,Lycoming,Montoursville,Susquehanna River - West Branch,41.23310000000,-76.92890000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Dauphin,Middletown,Susquehanna River/Swatara Creek,40.18610000000,-76.73310000000,Yes,Yes,No,No,,10 spaces or more,,PFBC
+Pennsylvania,Perry,Sweigarts Island,Susquehanna River,40.60820000000,-76.95200000000,Yes,Yes,No,No,,10 spaces or more,,PGC
+Pennsylvania,Dauphin,Clifton Bridge,Swatara Creek,40.23020000000,-76.72700000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+Pennsylvania,Dauphin,Millersburg,Susquehanna River,40.54880000000,-76.96510000000,Yes,Yes,No,No,,Fewer than 10 spaces,,Local Gov't
+Pennsylvania,Cumberland,West Fairview,Susquehanna River,40.27210000000,-76.91410000000,Yes,Yes,No,No,,10 spaces or more,,Local Gov't
+Pennsylvania,Bedford,Everett Flood Control Levee,Juniata River - Raystown Branch,40.00870000000,-78.37370000000,,No,No,No,,Roadside Parking (N*,,Local Gov't
+New York,steuben,chemung river,chemung river,42.11900000000,-76.98080000000,Yes,No,No,No,,6,,DEC
+New York,tioga,barton,SUSQUEHANNA RIVER,42.04100000000,-76.44540000000,Yes,No,No,No,,10,,DEC
+New York,tioga,nichols (east),SUSQUEHANNA RIVER,42.04120000000,-76.34780000000,Yes,No,No,No,,12,,DEC
+New York,tioga,nichols (west),SUSQUEHANNA RIVER,42.03050000000,-76.43090000000,Yes,No,No,No,,7,,DEC
+New York,otsego,crumhorn,SUSQUEHANNA RIVER,42.55650000000,-74.94240000000,Yes,No,No,No,,28,,DEC
+New York,otsego,emmons,SUSQUEHANNA RIVER,42.46290000000,-75.00400000000,Yes,No,No,No,,20,,DEC
+New York,otsego,oneonta,SUSQUEHANNA RIVER,42.44200000000,-75.09880000000,Yes,No,No,No,,20,,DEC
+New York,delaware,wells bridge - otego,SUSQUEHANNA RIVER,42.37680000000,-75.20030000000,Yes,No,No,No,,25,,DEC
+New York,otsego,sidney,SUSQUEHANNA RIVER,42.31670000000,-75.41170000000,Yes,No,No,No,,30,,DEC
+New York,otsego,colliersville,SUSQUEHANNA RIVER,42.48940000000,-74.98050000000,Yes,No,No,No,,10,,DEC
+New York,chenango,county route 32b,CHENANGO RIVER,42.47290000000,-75.54550000000,Yes,No,No,No,,10,,DEC
+New York,delaware,unadilla,SUSQUEHANNA RIVER,42.32090000000,-75.32300000000,Yes,No,No,No,,40,,DEC
+New York,chenango,green,chenango river,42.32840000000,-75.76840000000,Yes,No,No,No,,6,,mun
+New York,broome,kirkwood park,susquehanna river,42.01200000000,-75.77560000000,Yes,No,No,No,,6,,mun
+New York,broome,conklin center,susquehanna river,42.06270000000,-75.80570000000,Yes,No,No,No,,6,,mun
+New York,broome,sandy beach park,susquehanna river,42.10210000000,-75.87550000000,Yes,No,No,No,,8,,mun
+New York,broome,rock bottom dam,susquehanna river,42.09400000000,-75.90200000000,Yes,No,No,No,,5,,mun
+New York,broome,johnson city,susquehanna river,42.10420000000,-75.96840000000,Yes,No,No,No,,10,,dec
+New York,broome,endicott,susquehanna river,42.09550000000,-76.04900000000,Yes,No,No,No,,10,,mun
+New York,broome,vestal,susquehanna river,42.08880000000,-76.06090000000,Yes,No,No,No,,10,,mun
+New York,chenango,afton,susquehanna river,42.22810000000,-75.52340000000,Yes,No,No,No,,5,,mun
+New York,chenango,bainbridge,susquehanna river,42.29080000000,-75.47580000000,Yes,No,No,No,,5,,mun
+New York,tioga,marshland road,susquehanna river,42.09530000000,-76.18310000000,Yes,No,No,No,,10,,mun
+New York,tioga,hickories park,susquehanna river,42.09090000000,-76.22650000000,Yes,No,No,No,,6,,mun
+New York,broome,chenango forks,tioughnioga river,42.23850000000,-75.84670000000,Yes,No,No,No,,6,,dec
+New York,broome,itaska,tioughnioga river,42.29860000000,-75.90800000000,Yes,No,No,No,,6,,dec
+Maryland,Somerset,Cedar Island WMA,,37.93120000000,-75.87630000000,No,Yes,Yes,No,No,Unknown,,
+Maryland,Somerset,Tylerton Ramp and Wharf,,37.96430000000,-76.02340000000,No,Yes,No,No,No,Unknown,,
+Maryland,Somerset,Rumbley Point Boat Ramp,,37.97100000000,-75.72570000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Somerset,Rhodes Point Wharf,,37.97180000000,-76.04070000000,No,Yes,No,No,No,Unknown,,
+Maryland,Somerset,Somers Cove Marina,,37.97380000000,-75.86050000000,No,Yes,No,No,Yes,Large,,
+Maryland,Somerset,Shelltown Boat Ramp,,37.98020000000,-75.63930000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Somerset,Ewell Boat Ramp and Wharf,,37.99580000000,-76.03350000000,No,Yes,No,No,No,Unknown,,
+Maryland,Somerset,Wellington Tawes Beach,,37.99960000000,-75.85590000000,No,Yes,Yes,No,Yes,Medium,,
+Maryland,Worcester,Cedar Hill Landing Boat Ramp,,38.00880000000,-75.62020000000,No,Yes,No,No,No,Large,,
+Maryland,Somerset,Janes Island State Park,,38.01030000000,-75.84760000000,No,Yes,Yes,Yes,Yes,Large,,
+Maryland,Somerset,Rehobeth Boat Ramp,,38.03850000000,-75.66230000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Somerset,Colbourn Creek Boat Ramp,,38.04870000000,-75.80330000000,No,Yes,No,No,Yes,Large,,
+Maryland,St. Mary's,Point Lookout State Park,,38.04410000000,-76.32510000000,No,Yes,Yes,Yes,Yes,Large,,
+Maryland,Worcester,Cypress Park,,38.07080000000,-75.56700000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Worcester,Laurel Street Boat Ramp,,38.07320000000,-75.57200000000,No,Yes,No,No,No,Medium,,
+Maryland,Somerset,Fairmount WMA,,38.08170000000,-75.84180000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Worcester,Winter Quarters Park,,38.08520000000,-75.55930000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Somerset,Rumbley Point Ramp and Wharf,,38.09380000000,-75.86270000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Somerset,South Marsh Island WM,,38.10370000000,-76.03140000000,No,Yes,Yes,No,No,Unknown,,
+Maryland,St. Mary's,St. Inigoes Recreatio,,38.10530000000,-76.41680000000,No,Yes,Yes,No,Yes,Medium,,
+Maryland,St. Mary's,St. Georges Island Pier,,38.11260000000,-76.46780000000,No,Yes,No,No,No,Shoulder,,
+Maryland,St. Mary's,Fox Harbor,,38.11470000000,-76.39150000000,No,Yes,No,No,No,Unknown,,
+Maryland,Worcester,Milburn Landing State,,38.12210000000,-75.49580000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Somerset,Wenona Harbor,,38.12810000000,-75.94930000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Worcester,Pocomoke River State,,38.13810000000,-75.47950000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Somerset,Raccoon Point,,38.14120000000,-75.78680000000,No,Yes,Yes,Yes,No,Medium,,
+Maryland,Worcester,Shad Landing State Park,,38.14320000000,-75.44010000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,St. Mary's,Piney Point Lighthouse Museum/Park,,38.13430000000,-76.52880000000,No,No,No,Yes,Yes,Medium,,
+Maryland,St. Mary's,Piney Point Recreation Area,,38.13850000000,-76.50280000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Somerset,St. Peter's Creek Ramp/Wharf,,38.15180000000,-75.80880000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Somerset,Deal Island Harbor,,38.16750000000,-75.94730000000,No,Yes,No,No,No,Large,,
+Maryland,Worcester,Byrd Park,,38.17500000000,-75.39850000000,No,Yes,No,No,Yes,Large,,
+Maryland,Somerset,Deal Island WMA,,38.17400000000,-75.88020000000,No,Yes,No,Yes,No,Large,,
+Maryland,St. Mary's,St. Mary's City Historic Park,,38.17020000000,-76.43990000000,No,No,No,Yes,Yes,Medium,,
+Maryland,Worcester,Sturgis Memorial Park,,38.18220000000,-75.39830000000,No,Yes,No,No,Yes,Medium,,
+Maryland,St. Mary's,Elms Beach,,38.18280000000,-76.35530000000,No,Yes,Yes,No,Yes,Medium,,
+Maryland,Somerset,Dames Quarter Ramp and Wharf,,38.19390000000,-75.88460000000,No,Yes,No,No,Yes,Medium,,
+Maryland,St. Mary's,St. Mary's College,,38.19090000000,-76.43210000000,No,No,Yes,No,Yes,Medium,,
+Maryland,St. Mary's,Elms Property,,38.19300000000,-76.35880000000,No,Yes,Yes,Yes,No,Medium,,
+Maryland,Somerset,Manokin River Park,,38.20650000000,-75.70510000000,No,Yes,No,No,No,Large,,
+Maryland,St. Mary's,St. Clements Island SP/WMA,,38.21490000000,-76.74570000000,No,Yes,No,Yes,No,Unknown,,
+Maryland,St. Mary's,Potomac River Museum,,38.22250000000,-76.75730000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Dorchester,Crocheron Boat Ramp,,38.24380000000,-76.04970000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Somerset,Webster's Cove Harbor,,38.24890000000,-75.83200000000,No,Yes,No,No,Yes,Large,,
+Maryland,St. Mary's,Paul Ellis Landing,,38.25400000000,-76.79730000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Dorchester,Muddy Hook Cove Boat,,38.26190000000,-76.17660000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Wicomico,Ellis Bay WMA,,38.26580000000,-75.83950000000,No,Yes,No,No,No,Medium,,
+Maryland,St. Mary's,Abells Wharf,,38.25980000000,-76.64520000000,No,Yes,No,No,No,Medium,,
+Maryland,St. Mary's,River Springs Landing,,38.26060000000,-76.79750000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Charles,Southern Park,,38.27480000000,-76.86800000000,No,Yes,No,No,Yes,Medium,,
+Maryland,St. Mary's,Bushwood Wharf Recreation Area,,38.28380000000,-76.80450000000,No,Yes,No,No,Yes,Large,,
+Maryland,Dorchester,McCready Cove Boat Ramp,,38.30110000000,-76.00570000000,No,Yes,No,No,Yes,Large,,
+Maryland,Wicomico,Bivalve Pier,,38.30390000000,-75.89580000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Dorchester,Toddville Boat Ramp,,38.30560000000,-76.06310000000,No,Yes,No,No,No,Unknown,,
+Maryland,Dorchester,Kirwins Wharf,,38.30590000000,-76.10530000000,No,Yes,No,No,No,Medium,,
+Maryland,Wicomico,Cedar Hill Park,,38.31360000000,-75.88910000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Dorchester,Crapo Boat Ramp,,38.31710000000,-76.13110000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Calvert,Calvert Marine Museum,,38.31800000000,-76.45580000000,No,No,No,Yes,Yes,Large,,
+Maryland,Wicomico,Wetipquin Boat Ramp,,38.32620000000,-75.86640000000,No,Yes,No,No,No,Medium,,
+Maryland,Wicomico,Tyaskin,,38.32770000000,-75.87530000000,No,Yes,No,No,No,Medium,,
+Maryland,St. Mary's,Chaptico Wharf Recreation Area,,38.31960000000,-76.83090000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Calvert,Solomons Boat Ramp,,38.32900000000,-76.46800000000,No,Yes,No,No,Yes,Large,,
+Maryland,St. Mary's,Myrtle Point,,38.33120000000,-76.49440000000,No,Yes,No,No,No,Large,,
+Maryland,Wicomico,Pemberton Historical,,38.34980000000,-75.62960000000,No,No,No,Yes,Yes,Medium,,
+Maryland,Dorchester,Tylers Cove Boat Ramp,,38.35020000000,-76.22800000000,No,Yes,No,No,Yes,Large,,
+Maryland,Wicomico,Riverwalk Park,,38.36280000000,-75.58560000000,No,Yes,No,Yes,No,Medium,,
+Maryland,St. Mary's,Forest Landing Recreation Area,,38.35480000000,-76.53220000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Wicomico,Riverside Boat Ramp,,38.36420000000,-75.60370000000,No,Yes,No,No,Yes,Large,,
+Maryland,Dorchester,Shorters Wharf and Boat Ramp,,38.38260000000,-76.06800000000,No,Yes,No,No,No,Medium,,
+Maryland,St. Mary's,Wicomico Recreation Area,,38.38760000000,-76.87000000000,No,Yes,Yes,No,Yes,Medium,,
+Maryland,Calvert,Jefferson Patterson Park,,38.39710000000,-76.50810000000,No,No,No,Yes,Yes,Large,,
+Maryland,Dorchester,Fishing Bay WMA,,38.40400000000,-75.97680000000,No,Yes,No,No,No,Large,,
+Maryland,Calvert,Calvert Cliffs State,,38.40990000000,-76.41190000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Dorchester,Bestpitch Boat Ramp,,38.41760000000,-75.99350000000,No,Yes,No,No,Yes,Large,,
+Maryland,Calvert,Nans Cove,,38.42140000000,-76.55070000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Calvert,Flag Ponds Nature Park,,38.42380000000,-76.42690000000,No,Yes,Yes,Yes,Yes,Large,,
+Maryland,Dorchester,Beaverdam Creek Boat,,38.42990000000,-76.23700000000,No,Yes,No,No,No,Medium,,
+Maryland,Dorchester,Blackwater National Wildlife Refuge,,38.44470000000,-76.17210000000,No,No,No,Yes,No,Medium,,
+Maryland,Charles,Purse State Park,,38.43140000000,-77.25310000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Dorchester,Taylor's Island WMA,,38.44630000000,-76.26700000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Wicomico,Mardela Boat Ramp,,38.45430000000,-75.75610000000,No,Yes,No,No,No,Large,,
+Maryland,Charles,Friendship Landing,,38.45390000000,-77.15070000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Dorchester,Taylor's Island Boat,,38.47030000000,-76.29760000000,No,Yes,No,No,Yes,Large,,
+Maryland,Dorchester,New Bridge Boat Ramp,,38.48150000000,-75.88430000000,No,Yes,No,No,No,Medium,,
+Maryland,Dorchester,Vienna,,38.48360000000,-75.82330000000,No,Yes,No,No,No,Large,,
+Maryland,Charles,Chapel Point State Park,,38.47070000000,-77.03080000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Calvert,Battle Creek Cypress Swamp,,38.49880000000,-76.59870000000,No,No,No,Yes,Yes,Large,,
+Maryland,Dorchester,Transquaking River Boat Ramp,,38.51260000000,-75.96870000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Dorchester,Madison Boat Ramp,,38.51270000000,-76.22510000000,No,Yes,No,No,No,Medium,,
+Maryland,Calvert,Hallowing Point Boat Ramp,,38.50880000000,-76.66470000000,No,Yes,No,No,Yes,Large,,
+Maryland,Wicomico,Sharptown Park,,38.53710000000,-75.72790000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Wicomico,Cherry Beach,,38.54390000000,-75.71880000000,No,No,Yes,No,No,Large,,
+Maryland,Dorchester,Ragged Point Boat Ramp,,38.56170000000,-76.27550000000,No,Yes,No,No,Yes,Large,,
+Maryland,Dorchester,Trenton Street Boat Ramp,,38.57000000000,-76.07260000000,No,Yes,No,No,No,Large,,
+Maryland,Dorchester,Franklin Street,,38.57330000000,-76.06740000000,No,Yes,No,No,No,Large,,
+Maryland,Charles,Smallwood State Park,,38.55870000000,-77.18850000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Dorchester,Lone Wharf,,38.57540000000,-76.07180000000,No,Yes,No,No,No,Large,,
+Maryland,Dorchester,Great Marsh,,38.58470000000,-76.07850000000,No,Yes,No,No,No,Large,,
+Maryland,Dorchester/Talbot,Choptank River Fishing Piers SP,,38.59130000000,-76.04330000000,No,Yes,No,No,Yes,Med_Large,,
+Maryland,Dorchester,Horn Point (Univ. of Maryland),,38.59940000000,-76.14340000000,No,Yes,Yes,No,Yes,Medium,,
+Maryland,Dorchester,Secretary Ramp,,38.60800000000,-75.95180000000,No,Yes,No,No,No,Large,,
+Maryland,Charles,Mattawoman Natural Environmental Area,,38.59760000000,-77.13350000000,No,Yes,No,Yes,No,Shoulder,,
+Maryland,Calvert,Breezy Point Beach and Campground,,38.61710000000,-76.51140000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Calvert,Kings Landing Park,,38.62110000000,-76.66890000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Charles,Ruth Swann Memorial Park,,38.63380000000,-77.09850000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Talbot,Trappe Landing,,38.65450000000,-76.08550000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Prince George's,Clyde Watson Boating,,38.64790000000,-76.69380000000,No,Yes,No,No,No,Large,,
+Maryland,Caroline,Federalsburg VFW,,38.67960000000,-75.77510000000,No,Yes,No,No,No,Large,,
+Maryland,Talbot,Blackwalnut Point Bulkhead,,38.67470000000,-76.34320000000,No,Yes,No,No,No,Large,,
+Maryland,Caroline,Choptank Marina,,38.68220000000,-75.95150000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Talbot,Windy Hill Landing,,38.68380000000,-75.97500000000,No,Yes,Yes,No,Yes,Medium,,
+Maryland,Talbot,Blackwalnut Cove - Fairbanks Pier,,38.68190000000,-76.34200000000,No,Yes,No,No,No,Unknown,,
+Maryland,Caroline,Federalsburg Marina Park,,38.68810000000,-75.77170000000,No,Yes,No,No,Yes,Large,,
+Maryland,Calvert,Bayfront Park,,38.68580000000,-76.52990000000,No,No,Yes,No,No,Medium,,
+Maryland,Talbot,Oxford,,38.69350000000,-76.16980000000,No,Yes,No,No,No,Large,,
+Maryland,Charles,Marshall Hall,,38.68490000000,-77.10110000000,No,Yes,No,No,No,Large,,
+Maryland,Talbot,Bellevue Park,,38.70350000000,-76.18250000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Prince George's,Piscataway Park,,38.69410000000,-77.01390000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Calvert,Waterfront Park,,38.70700000000,-76.53140000000,No,Yes,Yes,No,No,Medium,,
+Maryland,Talbot,Dogwood Harbor,,38.71310000000,-76.33530000000,No,Yes,No,No,Yes,Large,,
+Maryland,Prince George's,Fort Washington National Park,,38.71160000000,-77.03370000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Talbot,Neavitt Landing,,38.72550000000,-76.28220000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Prince George's,Merkle WMA,,38.73290000000,-76.69910000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Talbot,Oak Creek Landing,,38.75210000000,-76.17770000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Talbot,Grace Creek,,38.75790000000,-76.26590000000,No,Yes,No,No,No,Unknown,,
+Maryland,Talbot,Sherwood Pier,,38.76090000000,-76.31820000000,No,Yes,No,No,No,Unknown,,
+Maryland,Talbot,Easton Point Landing,,38.76830000000,-76.09430000000,No,Yes,No,No,Yes,Large,,
+Maryland,Prince George's,Ft. Foote Park,,38.75650000000,-77.02180000000,No,Yes,No,Yes,No,Large,,
+Maryland,Talbot,Lowes Wharf,,38.76750000000,-76.33050000000,No,Yes,No,No,No,Medium,,
+Maryland,Anne Arundel,Jug Bay Wetlands Sanctuary,,38.77610000000,-76.70020000000,No,No,No,Yes,No,Large,,
+Maryland,Talbot,West Harbor Road,,38.78510000000,-76.21920000000,No,Yes,No,No,Yes,Large,,
+Maryland,Prince George's,Jug Bay - Patuxent River Park,,38.78540000000,-76.71460000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Talbot,Wittman Landing,,38.79100000000,-76.29780000000,No,Yes,No,No,No,Medium,,
+Maryland,Anne Arundel,Deale Wharf,,38.79140000000,-76.55850000000,No,Yes,No,No,No,Medium,,
+Maryland,Caroline,Ganey's Wharf,,38.80340000000,-75.90890000000,No,Yes,No,No,Yes,Large,,
+Maryland,Talbot,Bay Shore Landing,,38.79960000000,-76.31140000000,No,Yes,No,No,No,Medium,,
+Maryland,Prince George's,Oxon Hill Children's,,38.79920000000,-77.02230000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Anne Arundel,Patuxent Wetlands Park,,38.81400000000,-76.71030000000,No,Yes,No,No,No,Medium,,
+Maryland,Talbot,Tunis Mills,,38.82070000000,-76.17100000000,No,Yes,Yes,No,No,Unknown,,
+Maryland,Talbot,New Bridge Landing,,38.83350000000,-75.91580000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Talbot,Claiborne Landing,,38.83790000000,-76.27990000000,No,Yes,No,No,Yes,Large,,
+Maryland,Talbot,Tilghman Creek Landing,,38.83920000000,-76.26730000000,No,Yes,No,No,No,Medium,,
+Maryland,Anne Arundel,Galesville Park,,38.84300000000,-76.54270000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Caroline,Martinak State Park,,38.86050000000,-75.83890000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Caroline,Dan Crouse Park/Denton Natural Area,,38.88860000000,-75.83750000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Talbot,Skipton Creek Landing,,38.89210000000,-76.07210000000,No,Yes,No,No,No,Medium,,
+Maryland,Talbot,Wye Landing,,38.89260000000,-76.10230000000,No,Yes,No,No,Yes,Large,,
+Maryland,Anne Arundel,Mayo Beach Park,,38.89010000000,-76.49080000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Queen Anne's,Romancoke Pier,,38.89410000000,-76.33150000000,No,Yes,No,No,Yes,Large,,
+Maryland,Queen Anne's,Wye Island NRMA,,38.89840000000,-76.14080000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Prince George's,Queen Anne Bridge Fishing Area,,38.89270000000,-76.67920000000,No,Yes,No,No,No,Unknown,,
+Maryland,Anne Arundel,Thomas Point Park,,38.90840000000,-76.46510000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Caroline,Hillsboro Boat Ramp,,38.91710000000,-75.94460000000,No,Yes,No,No,No,Medium,,
+Maryland,Queen Anne's,Shipping Creek Landing,,38.91350000000,-76.34650000000,No,Yes,No,No,No,Large,,
+Maryland,Anne Arundel,Quiet Waters Park,,38.93170000000,-76.50920000000,No,No,No,Yes,Yes,Large,,
+Maryland,Queen Anne's,Little Creek Landing,,38.93630000000,-76.28670000000,No,Yes,No,No,No,Large,,
+Maryland,Queen Anne's,Cabin Creek,,38.94520000000,-76.20820000000,No,Yes,No,No,No,Medium,,
+Maryland,Queen Anne's,Matapeake State Park,,38.95430000000,-76.35480000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Queen Anne's,Wells Cove,,38.96290000000,-76.23750000000,No,Yes,No,No,No,Medium,,
+Maryland,Queen Anne's,Goodhand Creek Landing,,38.96360000000,-76.26550000000,No,Yes,No,No,No,Medium,,
+Maryland,Caroline,Tuckahoe State Park,,38.96860000000,-75.94470000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Caroline,Greensboro Boat Ramp,,38.97100000000,-75.80000000000,No,Yes,No,No,Yes,Large,,
+Maryland,Queen Anne's,Thompson Creek Landing,,38.96850000000,-76.31090000000,No,Yes,No,No,No,Medium,,
+Maryland,Anne Arundel,Truxton Park,,38.96860000000,-76.49850000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Anne Arundel,Second Street Outfall,,38.96980000000,-76.47680000000,No,Yes,No,No,No,Unknown,,
+Maryland,Queen Anne's,Piney Narrows,,38.97700000000,-76.24860000000,No,Yes,No,No,No,Medium,,
+Maryland,Queen Anne's,Queenstown,,38.99030000000,-76.15890000000,No,Yes,No,No,No,Medium,,
+Maryland,Caroline,Christian Park,,38.99990000000,-75.78590000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Anne Arundel,Jonas Green State Park,,38.99340000000,-76.48000000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Queen Anne's,Terrapin Nature Park,,39.00420000000,-76.32390000000,No,No,Yes,Yes,No,Medium,,
+Maryland,Kent,Eastern Neck Island NWR,,39.01140000000,-76.21190000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Anne Arundel,Sandy Point State Park,,39.01330000000,-76.39620000000,No,Yes,Yes,Yes,Yes,Large,,
+Maryland,Kent,Bogles Public Landing,,39.03240000000,-76.20980000000,No,Yes,No,No,No,Large,,
+Maryland,Queen Anne's,Centreville Landing,,39.05510000000,-76.07340000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Montgomery,Seneca Landing Park,,39.06890000000,-77.34090000000,No,Yes,No,No,Yes,Large,,
+Maryland,Kent,Cliff City Public Landing,,39.10670000000,-76.14340000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Kent,Skinners Neck Public Landing,,39.11020000000,-76.21160000000,No,Yes,No,No,No,Medium,,
+Maryland,Kent,Long Cove Public Landing,,39.11190000000,-76.18360000000,No,Yes,No,No,Yes,Large,,
+Maryland,Anne Arundel,Downs Memorial Park,,39.10920000000,-76.42960000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Kent,Quaker Neck Public Landing,,39.12990000000,-76.09710000000,No,Yes,No,No,No,Medium,,
+Maryland,Kent,Green Lane,,39.13050000000,-76.24280000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Kent,Bayside Public Landing,,39.14210000000,-76.25180000000,No,Yes,No,No,No,Medium,,
+Maryland,Kent,Spring Cove Public Landing,,39.14750000000,-76.24400000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Anne Arundel,Green Haven Wharf,,39.14960000000,-76.53780000000,No,Yes,No,No,No,Medium,,
+Maryland,Queen Anne's,Southeast Creek Public Landing,,39.15780000000,-76.02580000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Kent,Ship Yard Public Landing,,39.16280000000,-76.18980000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Anne Arundel,Fort Smallwood Park,,39.16370000000,-76.47690000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Kent,Wilmer Park,,39.20390000000,-76.06840000000,No,Yes,No,No,No,Large,,
+Maryland,Kent,High Street Public Landing,,39.20760000000,-76.06380000000,No,Yes,No,No,No,Large,,
+Maryland,Baltimore,Fort Howard Park,,39.20450000000,-76.43860000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Baltimore City,Fort Armistead Park,,39.20970000000,-76.53270000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Baltimore,North Point State Park,,39.22020000000,-76.41670000000,No,Yes,Yes,Yes,Yes,Medium,,
+Maryland,Anne Arundel,Patapsco State Park,,39.21640000000,-76.69800000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Queen Anne's,Crumpton Park Landing,,39.23840000000,-75.93020000000,No,Yes,No,No,No,Unknown,,
+Maryland,Queen Anne's,Deep Landing,,39.24020000000,-75.96080000000,No,Yes,No,No,No,Medium,,
+Maryland,Baltimore,Southwest Area Park,,39.23470000000,-76.62040000000,No,Yes,No,Yes,No,Large,,
+Maryland,Baltimore,Fleming Community Center,,39.23700000000,-76.50120000000,No,Yes,No,No,Yes,Large,,
+Maryland,Baltimore,Hart-Miller Island State Park,,39.23960000000,-76.38790000000,No,Yes,Yes,Yes,No,Unknown,,
+Maryland,Baltimore,Turner Station Park,,39.24110000000,-76.50640000000,No,Yes,No,No,No,Large,,
+Maryland,Baltimore,Southeastern Vo-Tech Center,,39.24320000000,-76.50770000000,No,Yes,No,No,No,Medium,,
+Maryland,Baltimore,Watersedge Park,,39.24470000000,-76.49550000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Kent,Fairlee Public Landing,,39.24890000000,-76.19720000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Baltimore,Edgemere Center Pier,,39.24640000000,-76.44350000000,No,Yes,No,No,No,Medium,,
+Maryland,Baltimore City,Middle Branch - Reedbird Park,,39.24450000000,-76.61420000000,No,Yes,No,Yes,No,Large,,
+Maryland,Baltimore,Rocky Point Park,,39.25030000000,-76.40390000000,No,Yes,Yes,Yes,Yes,Large,,
+Maryland,Baltimore,Chesterwood Park,,39.25020000000,-76.50120000000,No,Yes,No,No,Yes,Unknown,,
+Maryland,Baltimore,Merritt Point Park,,39.25280000000,-76.50680000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Baltimore City,Middle Branch - Broening Park,,39.25490000000,-76.61560000000,No,Yes,No,Yes,No,Large,,
+Maryland,Baltimore,Inverness Park,,39.25680000000,-76.49250000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Baltimore City,Middle Branch - Waterview East,,39.25570000000,-76.61900000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Baltimore City,Middle Branch - Ferry Bar,,39.25630000000,-76.61000000000,No,No,Yes,No,No,Unknown,,
+Maryland,Baltimore,Sandy Plains Elementary School,,39.25980000000,-76.48660000000,No,Yes,No,No,No,Medium,,
+Maryland,Baltimore,Stansbury Park,,39.26120000000,-76.49950000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Baltimore,Lynch Cove Park,,39.26210000000,-76.49770000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Baltimore City,Fort McHenry National Monument,,39.26250000000,-76.57930000000,No,No,No,Yes,Yes,Large,,
+Maryland,Baltimore,Bear Creek Elementary School,,39.26890000000,-76.48190000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Kent,Buck Neck Landing,,39.27450000000,-76.16790000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Baltimore,Battle Monument Elementary School,,39.27240000000,-76.47970000000,No,Yes,No,No,No,Medium,,
+Maryland,Baltimore,Charlesmont Park,,39.27430000000,-76.48340000000,No,Yes,No,No,Yes,Shoulder,,
+Maryland,Baltimore,Charlesmont Elementary School,,39.27590000000,-76.48700000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Baltimore City,Hull Street Park,,39.27520000000,-76.59080000000,No,Yes,No,No,No,Unknown,,
+Maryland,Baltimore City,Canton Waterfront Park,,39.27670000000,-76.57120000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Kent,Green Point,,39.28260000000,-76.16770000000,No,Yes,No,No,No,Shoulder,,
+Maryland,Baltimore City,Broadway Pier,,39.28040000000,-76.58030000000,No,Yes,No,No,No,Unknown,,
+Maryland,Baltimore City,Boston Street,,39.28120000000,-76.59410000000,No,Yes,No,No,No,Unknown,,
+Maryland,Baltimore,Pottery Farm Park,,39.28560000000,-76.41450000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Baltimore City,Inner Harbor,,39.28640000000,-76.60730000000,No,No,No,Yes,No,Unknown,,
+Maryland,Baltimore,Cox's Point Park,,39.29420000000,-76.46470000000,No,Yes,Yes,No,Yes,Medium,,
+Maryland,Baltimore,Turkey Point Park,,39.29850000000,-76.40420000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Baltimore,Prospect Park,,39.30030000000,-76.49100000000,No,Yes,No,No,No,Medium,,
+Maryland,Baltimore,Miami Beach Park,,39.30610000000,-76.36810000000,No,Yes,Yes,Yes,Yes,Large,,
+Maryland,Kent,Still Pond Creek Landing,,39.32750000000,-76.09580000000,No,Yes,No,No,No,Medium,,
+Maryland,Baltimore,Hawthorne Park,,39.32500000000,-76.43890000000,No,Yes,No,No,No,Unknown,,
+Maryland,Baltimore,Gunpowder Falls State Park,,39.35200000000,-76.35900000000,No,Yes,Yes,Yes,Yes,Medium,,
+Maryland,Kent,Turner's Creek Wharf / Park,,39.35760000000,-75.98300000000,No,Yes,Yes,Yes,Yes,Large,,
+Maryland,Kent,Betterton Beach Waterfront Park,,39.37070000000,-76.06290000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Harford,Mariner Point Park,,39.39910000000,-76.35100000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Cecil,Stemmers Run,,39.43310000000,-75.98990000000,No,Yes,No,No,No,Large,,
+Maryland,Harford,Willoughby Beach Landing,,39.43510000000,-76.24980000000,No,Yes,No,No,No,Medium,,
+Maryland,Harford,Flying Point Park,,39.44090000000,-76.26000000000,No,Yes,Yes,No,Yes,Large,,
+Maryland,Harford,Otter Point Public Landing,,39.44640000000,-76.26640000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Harford,Leight Park,,39.45460000000,-76.25500000000,No,Yes,No,Yes,No,Medium,,
+Maryland,Harford,Perryman Park,,39.46310000000,-76.22590000000,No,Yes,No,Yes,No,Unknown,,
+Maryland,Cecil,Elk Neck State Park,,39.47630000000,-75.97040000000,No,Yes,Yes,Yes,Yes,Large,,
+Maryland,Cecil,Pell Gardens Park,,39.52670000000,-75.81060000000,No,Yes,No,No,No,Medium,,
+Maryland,Harford,Promenade,,39.53620000000,-76.09230000000,No,Yes,No,Yes,No,Large,,
+Maryland,Harford,Tydings Park,,39.53790000000,-76.09170000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Harford,Decoy Museum,,39.54620000000,-76.08300000000,No,No,No,Yes,Yes,Medium,,
+Maryland,Cecil,Perryville Community Park,,39.54930000000,-76.04790000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Harford,Frank Hutchins Memorial Park,,39.55160000000,-76.08900000000,No,Yes,No,No,Yes,Large,,
+Maryland,Harford,Jean S. Roberts Memorial Park,,39.55340000000,-76.09060000000,No,Yes,No,No,No,Medium,,
+Maryland,Harford,McLhinney Park,,39.56340000000,-76.09500000000,No,Yes,No,No,No,Medium,,
+Maryland,Cecil,Perryville Boat Ramp,,39.56810000000,-76.07930000000,No,Yes,No,No,No,Unknown,,
+Maryland,Cecil,Stone Wharf,,39.57070000000,-75.98600000000,No,Yes,No,No,No,Medium,,
+Maryland,Cecil,Charlestown Pier,,39.57810000000,-75.96970000000,No,Yes,No,No,No,Large,,
+Maryland,Cecil,North East Community Park,,39.59370000000,-75.94880000000,No,Yes,No,No,Yes,Large,,
+Maryland,Cecil,Marina Park,,39.60010000000,-75.83140000000,No,Yes,No,No,Yes,Large,,
+Maryland,Harford,Susquehanna State Park,,39.59770000000,-76.12840000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Cecil,Port Deposit Marina Park,,39.59960000000,-76.10970000000,No,Yes,No,No,Yes,Medium,,
+Maryland,Cecil,Meadow Park,,39.60560000000,-75.82440000000,No,Yes,No,Yes,Yes,Large,,
+Maryland,Harford,Susquehanna State Park,,39.61370000000,-76.14990000000,No,Yes,No,Yes,Yes,Medium,,
+Maryland,Harford,Fisherman's Park,,39.64980000000,-76.17280000000,No,Yes,No,No,Yes,Large,,
+Maryland,Harford,Conowingo Pool,,39.65520000000,-76.18110000000,No,No,No,Yes,Yes,Large,,
+Maryland,Cecil,Conowingo Creek Boat Launch,,39.69400000000,-76.20290000000,No,Yes,No,No,No,Medium,,
+Maryland,Harford,Broad Creek Landing,,39.69550000000,-76.24070000000,No,Yes,No,No,No,Large,,
+Maryland,Harford,Line Bridge Landing,,39.71270000000,-76.23970000000,No,Yes,No,No,No,Unknown,,
+Maryland,Anne Arundel,City Dock - Susan Campbell Park,Annapolis Harbor/Spa Creek,38.97530000000,-76.48450000000,Yes,No,No,Yes,Yes,Yes,,City of Annapolis - Harbor Master
+Maryland,Anne Arundel,Carrs Wharf,Rhode River,38.88840000000,-76.52310000000,Yes,No,No,No,No,Yes,,Anne Arundel County - Recreation and Parks
+Maryland,Anne Arundel,Truxton Park,Spa Creek,38.96860000000,-76.49850000000,Yes,No,No,No,Yes,Yes,,The City of Annapolis - Recreation and Parks Depa*
+Maryland,Anne Arundel,Galesville Wharf,West River,38.84270000000,-76.53960000000,Yes,No,No,No,Yes,Yes,,Anne Arundel County - Recreation and Parks
+Maryland,Anne Arundel,Rose Haven Park/Holland Point Park,Herring Bay,38.72680000000,-76.53720000000,Yes,No,No,No,No,Yes,,Anne Arundel County - Recreation and Parks
+Maryland,Anne Arundel,Sandy Point - Park Main,Meznick Pond,39.01340000000,-76.40110000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Anne Arundel,Sandy Point - Small Craft Launch Area,Chesapeake Bay,39.01290000000,-76.39560000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Anne Arundel,Tucker Street - Annapolis,Weems Creek,38.99290000000,-76.50500000000,Yes,No,No,No,No,Yes,,The City of Annapolis - Recreation and Parks Depa*
+Maryland,Anne Arundel,Sandy Point - East Beach,Chesapeake Bay,39.01640000000,-76.39670000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Baltimore,Rocky Point Park - Outer,Back River/Hawk Cove/Chesapeake Bay,39.24890000000,-76.40310000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Turner Station Park,Peach Orchard Creek/Bear Creek,39.24110000000,-76.50640000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Dundee Creek - Marina,Dundee Creek/Gunpowder River,39.35180000000,-76.35910000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Baltimore,Dundee Creek - Cartop,Dundee Creek/Gunpowder River,39.35290000000,-76.35900000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Baltimore,Hammerman Small Boat,Gunpowder River,39.35870000000,-76.34410000000,Yes,No,No,No,No,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Baltimore,Wilson Point Park,Dark Head Creek,39.32210000000,-76.42740000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Cox's Point Park,Back River,39.29600000000,-76.46630000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Inverness Park,Lynch Cove/Bear Creek,39.25680000000,-76.49240000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Merritt Point Park,Bull Neck Creek,39.25280000000,-76.50670000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Chesterwood Park,Bullneck Creek,39.24920000000,-76.49910000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Watersedge Park,Bull Neck Creek,39.24410000000,-76.49560000000,Yes,No,No,No,No,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Hawthorne Park,Middle River,39.32420000000,-76.43940000000,Yes,No,No,No,No,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore City,Fort Armistead,Patapsco River,39.20880000000,-76.53270000000,Yes,No,No,No,Yes,Yes,,Baltimore City - Department of Recreation and Par*
+Maryland,Baltimore City,Middle Branch Park - Broening,Middle Branch/Patapsco River,39.25550000000,-76.61580000000,Yes,No,No,No,No,Yes,,Baltimore City - Department of Recreation and Par*
+Maryland,Calvert,Hallowing Point,Patuxent River,38.51050000000,-76.66460000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Calvert,Solomons Fishing Pier and Boat Ramp,Patuxent River,38.32890000000,-76.46800000000,Yes,No,No,No,Yes,Yes,,Calvert County - Department of Parks and Recreati*
+Maryland,Caroline,Choptank Marina,Choptank River,38.68160000000,-75.95080000000,Yes,No,No,No,Yes,Yes,,Caroline County - Recreation and Parks
+Maryland,Caroline,Greensboro Boat Ramp,Choptank River,38.97130000000,-75.79970000000,Yes,No,No,No,Yes,Yes,,Caroline County - Recreation and Parks
+Maryland,Caroline,Crouse Park,Choptank River,38.88860000000,-75.83760000000,Yes,No,No,No,Yes,Yes,,Caroline County - Recreation and Parks
+Maryland,Caroline,Ganey's Wharf,Choptank River,38.80510000000,-75.90910000000,Yes,No,No,No,Yes,Yes,,Caroline County - Recreation and Parks
+Maryland,Caroline,Two Johns Landing,Choptank River,38.82390000000,-75.86000000000,Yes,No,No,No,No,Yes,,Caroline County - Recreation and Parks
+Maryland,Caroline,Hillsboro - Boat Ramp,Tuckahoe Creek,38.91700000000,-75.94460000000,Yes,No,No,No,No,Yes,,Caroline County - Recreation and Parks
+Maryland,Caroline,Hillsboro - Kayak,Tuckahoe Creek,38.91690000000,-75.94430000000,Yes,No,No,No,No,Yes,,Caroline County - Recreation and Parks
+Maryland,Caroline,Stoney Point Landing,Tuckahoe Creek,38.89280000000,-75.94720000000,Yes,No,No,No,No,Yes,,Caroline County - Recreation and Parks
+Maryland,Caroline,Martinak State Park,Choptank River/Watts Creek,38.85960000000,-75.84090000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Caroline,Hunting Creek Bridge,Hunting Creek,38.67730000000,-75.93860000000,Yes,No,No,No,No,Yes,,Caroline County - Department of Public Works and *
+Maryland,Cecil,Chesapeake City,Chesapeake and Delaware Canal,39.52650000000,-75.80660000000,Yes,No,No,No,No,Yes,,U.S. Army Corps of Engineers
+Maryland,Cecil,Perryville - Boat Ramp,Susquehanna River,39.56690000000,-76.07880000000,Yes,No,No,No,Yes,Yes,,Town of Perryville
+Maryland,Cecil,Elk Neck State Park - Rogues Harbor,Rogues Harbor/Elk River,39.46520000000,-75.98610000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Cecil,Stemmer's Run Boat Launching Ramp,Elk River,39.43340000000,-75.98670000000,Yes,No,No,No,Yes,Yes,,Cecil County - Department of Parks and Recreation
+Maryland,Cecil,Fredericktown,Sassafras River,39.36310000000,-75.88660000000,Yes,No,No,No,Yes,Yes,,Cecil County - Department of Parks and Recreation
+Maryland,Cecil,North East Community Park,Northeast River,39.59330000000,-75.94890000000,Yes,No,No,No,Yes,Yes,,Town of North East
+Maryland,Cecil,Port Deposit - North Marina Park,Susquehanna River,39.59940000000,-76.11040000000,Yes,No,No,No,Yes,Yes,,Town of Port Deposit
+Maryland,Cecil,Port Deposit - South Marina Park,Susquehanna River,39.59890000000,-76.10990000000,Yes,No,No,No,No,Yes,,Town of Port Deposit
+Maryland,Cecil,Perryville - Community Park,Mill Creek,39.54760000000,-76.04720000000,Yes,No,No,No,Yes,Yes,,Town of Perryville
+Maryland,Cecil,Charlestown - Pier,North East River,39.57070000000,-75.97340000000,Yes,No,No,No,No,Yes,,Town of Charlestown
+Maryland,Cecil,Charlestown - Public Boat Ramp,North East River,39.57160000000,-75.97230000000,Yes,No,No,No,Yes,No,,Town of Charlestown
+Maryland,Charles,Chapel Point State Park,Port Tobacco River,38.47070000000,-77.03150000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Charles,Marshall Hall,Potomac River,38.68520000000,-77.10120000000,Yes,No,No,No,Yes,Yes,,Charles County - Parks and Recreation
+Maryland,Charles,Mattingly Park,Mattawoman Creek,38.59020000000,-77.16090000000,Yes,No,No,No,Yes,Yes,,The Town of Indian Head
+Maryland,Charles,Sweden Point Marina/Smallwood State Park,Mattawoman Creek,38.55840000000,-77.18880000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Charles,Friendship Farm Park/Landing,Nanjemoy Creek,38.45400000000,-77.15060000000,Yes,No,No,No,Yes,Yes,,Charles County - Parks and Recreation
+Maryland,Charles,Mallows Bay,Mallows Bay/Potomac River,38.46900000000,-77.26370000000,Yes,No,No,No,Yes,Yes,,Charles County - Parks and Recreation
+Maryland,Dorchester,Secretary,Warwick River,38.60840000000,-75.95180000000,Yes,No,No,No,Yes,Yes,,The Town of Secretary
+Maryland,Dorchester,Hoopersville,Muddy Hook Creek,38.25940000000,-76.17910000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Tylers Cove,Tyler Cove/Fishing Creek,38.35160000000,-76.22950000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Golden Hill,Wallace Creek,38.38600000000,-76.19840000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Crocheron,Tedious Creek,38.24470000000,-76.04940000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Toddville,Farm Creek,38.30560000000,-76.06310000000,Yes,No,No,No,No,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Kirwins Wharf,Insley Cove,38.30390000000,-76.10600000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Smithville Bridge,Beaver Dam Creek,38.42940000000,-76.23760000000,Yes,No,No,No,No,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Taylor's Island,Chapel Cove/Slaughter Creek,38.47060000000,-76.29760000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Madison,Madison Bay,38.50800000000,-76.22280000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Vienna,Nanticoke River,38.48350000000,-75.82310000000,Yes,No,No,No,No,Yes,,The Town of Vienna
+Maryland,St. Mary's,River Springs Landing,Whites Neck Creek/St. Catherine Sound,38.25210000000,-76.78800000000,Yes,No,No,No,No,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Wicomico Shores Landing,Wicomico River,38.37980000000,-76.85610000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Camp Calvert Landing,Breton Bay,38.28430000000,-76.62900000000,Yes,No,No,No,No,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,Baltimore,Fort Howard Park,Shallow Creek/Patapsco River/Chesapeake Bay,39.19540000000,-76.44220000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Marshy Point Nature Center and Park,Dundee Creek,39.34760000000,-76.37130000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Dorchester,Island Creek,Island Creek,38.36440000000,-75.93490000000,Yes,No,No,No,No,Yes,,Maryland Department of Natural Resources - Wildli*
+Maryland,Dorchester,Elliott's Island - Ramp/McCready's,McCready's Cove/Fishing Bay,38.30100000000,-76.00560000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Dorchester,Langrells Creek,Langrells Creek/Nanticoke River,38.32380000000,-75.94220000000,Yes,No,No,No,No,Yes,,Maryland Department of Natural Resources - Wildli*
+Maryland,Dorchester,Great Marsh Park,Choptank River,38.58500000000,-76.07790000000,Yes,No,No,No,Yes,Yes,,The City of Cambridge - Department of Public Works
+Maryland,Dorchester,Franklin Street,Choptank River,38.57340000000,-76.06730000000,Yes,No,No,No,Yes,Yes,,The City of Cambridge - Department of Public Works
+Maryland,Dorchester,Ragged Point,Brooks Creek,38.55640000000,-76.27210000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Frederick,Creagerstown Park,Monocacy River,39.56380000000,-77.35170000000,Yes,No,No,No,No,Yes,,Frederick County - Department of Parks and Recrea*
+Maryland,Frederick,Riverside Center,Monocacy River,39.44400000000,-77.38290000000,Yes,No,No,No,Yes,Yes,,City of Frederick - Parks and Recreation
+Maryland,Frederick,Pinecliff Park,Monocacy River,39.38920000000,-77.37840000000,Yes,No,No,No,Yes,Yes,,Frederick County - Department of Parks and Recrea*
+Maryland,Frederick,Monocacy Battlefield at Gambrill Mill,Monocacy River,39.36880000000,-77.38990000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Frederick,Buckeystown Community Park,Monocacy River,39.32730000000,-77.41530000000,Yes,No,No,No,Yes,Yes,,Frederick County - Department of Parks and Recrea*
+Maryland,Frederick,Noland's Ferry,Potomac River,39.24820000000,-77.48100000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Frederick,Point of Rocks - Maryland,Potomac River,39.27370000000,-77.54340000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,VA,Point of Rocks - Virginia/McKimmey,Potomac River,39.27240000000,-77.54720000000,Yes,No,No,No,No,Yes,,
+Maryland,Frederick,Brunswick Camp Ground Private,Potomac River,39.30650000000,-77.61490000000,Yes,No,No,No,No,Yes,,The City of Brunswick
+Maryland,Frederick,Brunswick City,Potomac River,39.31090000000,-77.63060000000,Yes,No,No,No,Yes,Yes,,The City of Brunswick
+Maryland,Frederick,Monocacy Aqueduct,Monocacy River/Potomac River,39.22440000000,-77.45000000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Harford,City Yacht Basin - Havre De Grace,Chesapeake Bay/Susquehanna River,39.53780000000,-76.09220000000,Yes,No,No,No,Yes,Yes,,The City of Havre de Grace - Department of Public*
+Maryland,Harford,Jean Roberts Park - Havre De Grace,Susquehanna River,39.55310000000,-76.09090000000,Yes,No,No,No,Yes,Yes,,The City of Havre de Grace
+Maryland,Harford,Susquehanna State Park - Lapidum,Susquehanna River,39.59740000000,-76.12760000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Harford,Mariner Point Park,Taylors Creek/Gunpowder River,39.40210000000,-76.35130000000,Yes,No,No,No,Yes,Yes,,Harford County - Department of Parks and Recreati*
+Maryland,Harford,Mariner Point Park - Kayak,Taylors and Foster Branch Creeks,39.40090000000,-76.35110000000,Yes,No,No,No,Yes,Yes,,Harford County - Department of Parks and Recreati*
+Maryland,Harford,Willoughby Beach,Otter Point Creek/Bush River,39.43500000000,-76.24880000000,Yes,No,No,No,Yes,Yes,,Harford County - Department of Parks and Recreati*
+Maryland,Harford,Flying Point Park,Otter Point Creek,39.44240000000,-76.25860000000,Yes,No,No,No,Yes,Yes,,Harford County - Department of Parks and Recreati*
+Maryland,Harford,Otter Point Landing,Otter Point Creek,39.44610000000,-76.26650000000,Yes,No,No,No,Yes,Yes,,Harford County - Department of Parks and Recreati*
+Maryland,Harford,Otter Creek Roadside,Otter Point Creek,39.45020000000,-76.27690000000,Yes,No,No,No,No,Yes,,Harford County - Department of Parks and Recreati*
+Maryland,Kent,Shallcross,Sassafras River,39.36480000000,-75.93900000000,Yes,No,No,No,No,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Foxhole Landing,Sassafras River,39.37420000000,-75.82960000000,Yes,No,No,No,No,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Quaker Neck,Chester River,39.12990000000,-76.09690000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Cliff City,Chester River,39.10700000000,-76.14210000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Broadneck Landing,Langford Creek - East Fork,39.13000000000,-76.15690000000,Yes,No,No,No,No,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Buck Neck Landing,Worton Creek,39.27410000000,-76.16860000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Green Point Landing,Worton Creek,39.28260000000,-76.16780000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Still Pond Landing,Still Pond Creek,39.32050000000,-76.08760000000,Yes,No,No,No,No,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Betterton,Sassafras River,39.37100000000,-76.06250000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Turner's Creek,Turner's Creek/Sassafras River,39.35770000000,-75.98320000000,Yes,No,No,No,Yes,Yes,,Kent County - Parks and Recreation
+Maryland,Kent,Shadding Reach,Chester River,39.25150000000,-75.88110000000,Yes,No,No,No,No,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Riley's Mill,Morgan Creek,39.25560000000,-76.04130000000,Yes,No,No,No,No,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Morgnec,Morgan Creek,39.23530000000,-76.03660000000,Yes,No,No,No,No,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Buckingham Wharf,Chester River,39.23730000000,-76.01430000000,Yes,No,No,No,No,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Allen's Lane,Chesapeake Bay,39.12360000000,-76.24310000000,Yes,No,No,No,No,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Wilmer Park,Chester River,39.20430000000,-76.06600000000,Yes,No,No,No,Yes,Yes,,Town of Chestertown
+Maryland,Montgomery,Anglers Inn - River,Potomac River,38.98080000000,-77.22840000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Montgomery,Anglers Inn - Canal,Chesapeake and Ohio Canal,38.98160000000,-77.22800000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Montgomery,Swains Lock - River,Potomac River,39.03080000000,-77.24410000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Montgomery,Swains Lock - Canal,Chesapeake and Ohio Canal,39.03140000000,-77.24370000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Montgomery,Pennyfield Lock,Chesapeake and Ohio Canal,39.05710000000,-77.29400000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Montgomery,Seneca Creek/Seneca Creek Landing,Seneca Creek,39.07070000000,-77.34140000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Montgomery,Sycamore Landing,Chesapeake and Ohio Canal,39.07430000000,-77.42030000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Montgomery,Edwards Ferry,Potomac River,39.10310000000,-77.47360000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Montgomery,Whites Ferry,Potomac River,39.15450000000,-77.51960000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Montgomery,Dickerson South,Potomac River/Chesapeake and Ohio Canal,39.19440000000,-77.47170000000,Yes,No,No,No,No,Yes,,M-NCPPC Department of Parks
+Maryland,Montgomery,Dickerson North,Potomac River/Chesapeake and Ohio Canal,39.19570000000,-77.47170000000,Yes,No,No,No,No,Yes,,M-NCPPC Department of Parks
+Maryland,Prince George's,Mount Calvert,Patuxent River,38.78510000000,-76.71350000000,Yes,No,No,No,No,Yes,,M-NCPPC's Department of Parks and Recreation
+Maryland,Prince George's,Fort Washington Marina,Piscataway Creek,38.70260000000,-77.02420000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources
+Maryland,Prince George's,Piscataway Park,Piscataway Creek,38.69450000000,-77.01390000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Prince George's,Bladensburg Waterfront Park,Anacostia River,38.93370000000,-76.93820000000,Yes,No,No,No,Yes,Yes,,M-NCPPC's Department of Parks and Recreation
+Maryland,Prince George's,McGruders Landing/Clyde Watson Boating Area,Patuxent River,38.63990000000,-76.69420000000,Yes,No,No,No,Yes,Yes,,M-NCPPC's Department of Parks and Recreation
+Maryland,Prince George's,Selby's Landing,Patuxent River,38.75260000000,-76.69980000000,Yes,No,No,No,Yes,Yes,,M-NCPPC's Department of Parks and Recreation
+Maryland,Prince George's,Jackson's Landing,Patuxent River,38.77310000000,-76.70910000000,Yes,No,No,No,Yes,Yes,,M-NCPPC's Department of Parks and Recreation
+Maryland,Queen Anne's,Centreville Landing,Corsica River,39.05430000000,-76.07400000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Millington Water Front Park,Chester River,39.25730000000,-75.83960000000,Yes,No,No,No,Yes,Yes,,The Town of Millington
+Maryland,Queen Anne's,Crumpton Landing,Chester River,39.23920000000,-75.93070000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Deep Landing,Chester River,39.24050000000,-75.96040000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Queenstown Dock,Little Queenstown Creek,38.99030000000,-76.16070000000,Yes,No,No,No,No,Yes,,The Town of Queenstown
+Maryland,Queen Anne's,Southeast Creek Landing,Southeast Creek,39.15790000000,-76.02570000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Cabin Creek Landing,Cabin Creek/Prospect Bay,38.94410000000,-76.21190000000,Yes,No,No,No,No,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Matapeake Fishing Pier &  Ramp,Chesapeake Bay,38.95460000000,-76.35550000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Romancoke Fishing Pier and Kayak Access,Eastern Bay,38.88120000000,-76.33420000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Shipping Creek Landing,Shipping Creek,38.91300000000,-76.34650000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Warehouse Creek Landing,Warehouse Creek,38.95680000000,-76.33630000000,Yes,No,No,No,No,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Thompson Creek Landing,Thompson Creek,38.96710000000,-76.31160000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Thompson Creek Landing - Kayak,Thompson Creek,38.96670000000,-76.31190000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Little Creek Landing,Little Creek,38.93590000000,-76.28590000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Goodhands Creek Landing,Goodhands Creek/Prospect Bay,38.96310000000,-76.26460000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Kent Narrows - Landing,Kent Narrows,38.97170000000,-76.24900000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Queen Anne's,Bryantown Landing,Wye River,38.93470000000,-76.16850000000,Yes,No,No,No,No,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Somerset,Somers Cove,Little Annemessex River,37.97530000000,-75.85990000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources
+Maryland,Somerset,Jenkins Creek,Jenkins Creek,37.96490000000,-75.84750000000,Yes,No,No,No,No,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Wenona Harbor Public Boat Ramp,Lower Thorofare Creek,38.13020000000,-75.95020000000,Yes,No,No,No,Yes,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Deal Island,Upper Thorofare Creek,38.16780000000,-75.94690000000,Yes,No,No,No,Yes,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Saint Peters Creek,Saint Peter's Creek,38.15470000000,-75.81220000000,Yes,No,No,No,Yes,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Janes Island State Park,Daugherty Creek Canal/Annemessex Canal,38.00980000000,-75.84810000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Somerset,Coulbourn Creek,Coulbourne Creek/Colburn Creek,38.04930000000,-75.80360000000,Yes,No,No,No,Yes,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Whitehaven Ferry - Kayak,Wicomico River,38.26600000000,-75.78330000000,Yes,No,No,No,No,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Webster's Cove,Wicomico River/Websters Cove,38.24810000000,-75.83010000000,Yes,No,No,No,Yes,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Rumbly Point,Marumsco Creek/Pocomoke Sound,37.97030000000,-75.75920000000,Yes,No,No,No,No,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Dames Quarter,Dames Quarter Creek,38.19410000000,-75.88460000000,Yes,No,No,No,Yes,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Shelltown,Pocomoke River,37.97940000000,-75.63960000000,Yes,No,No,No,No,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Rehobeth,Pocomoke River,38.03860000000,-75.66160000000,Yes,No,No,No,No,Yes,,Somerset County - Roads Department
+Maryland,St. Mary's,Point Lookout State Park - Boat Ramps,Lake Conoy,38.05220000000,-76.32690000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,St. Mary's,Point Lookout State Park - Camp Store/Boat Rental,Lake Conoy,38.05300000000,-76.32610000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,St. Mary's,St. Inigoes Landing,Smith Creek,38.11150000000,-76.41540000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Piney Point Recreation Area,St. George Creek,38.13820000000,-76.50030000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Abell's Wharf,Breton Bay,38.26070000000,-76.64510000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Forrest Landing,Forest Landing Cove,38.35470000000,-76.53200000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,St. Clement's Island Museum,Potomac River,38.22460000000,-76.75020000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Paul Ellis Landing,Whites Neck Creek,38.25260000000,-76.78640000000,Yes,No,No,No,No,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Bushwood Wharf,Bushwood Cove/Wicomico River,38.28310000000,-76.80520000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Chaptico Wharf,Wicomico River,38.32630000000,-76.83260000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,Talbot,Wye Mills Public Landing,Wye East River,38.89210000000,-76.10300000000,Yes,No,No,No,Yes,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Oak Creek Landing,Oak Creek/Miles River,38.75340000000,-76.17550000000,Yes,No,No,No,Yes,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Coveys Landing,Tuckahoe Creek,38.87290000000,-75.94430000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Reeses Landing,Tuckahoe Creek,38.83940000000,-75.92870000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,New Bridge,Tuckahoe Creek,38.83100000000,-75.91460000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Windy Hill Landing,Choptank River,38.68390000000,-75.97450000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Oxford,Town Creek/Tred Avon River,38.69300000000,-76.16870000000,Yes,No,No,No,Yes,Yes,,The Town of Oxford
+Maryland,Talbot,Easton Point Landing,Tred Avon River - North Fort,38.76800000000,-76.09480000000,Yes,No,No,No,Yes,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,St. Michaels - South,St. Michaels Harbor/Miles River,38.78410000000,-76.21890000000,Yes,No,No,No,No,Yes,,The Town of St. Michaels
+Maryland,Talbot,St. Michaels - North,St. Michaels Harbor/Miles River,38.78450000000,-76.21950000000,Yes,No,No,No,Yes,Yes,,The Town of St. Michaels
+Maryland,Talbot,Chew Street Park,San Domingo River,38.78060000000,-76.22620000000,Yes,No,No,No,No,Yes,,The Town of St. Michaels - Department of Public W*
+Maryland,Talbot,Claiborne Landing,Eastern Bay,38.83740000000,-76.28030000000,Yes,No,No,No,Yes,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Tilghman Creek Landing,Tilghman Creek,38.83510000000,-76.26800000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Bay Shore Road,Eastern Bay,38.79670000000,-76.30990000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Lowes Wharf,Ferry Cove,38.76580000000,-76.32780000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Dogwood Harbor,Dogwood Harbor/Harris Creek,38.71280000000,-76.33430000000,Yes,No,No,No,Yes,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Blackwalnut Cove Landing,Blackwalnut Cove,38.68310000000,-76.33820000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Cummings Creek Public Landing,Cummings Creek,38.79020000000,-76.29920000000,Yes,No,No,No,Yes,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Neavitt Landing,Balls Creek,38.72020000000,-76.27640000000,Yes,No,No,No,Yes,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Grace Creek Landing,Grace Creek,38.76030000000,-76.26790000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,St. Michael Town Dock,Miles River,38.78500000000,-76.22050000000,Yes,No,No,No,No,Yes,,The Town of St. Michaels
+Maryland,Talbot,Skipton Creek Landing,Skipton Creek,38.89110000000,-76.07160000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Miles River Bridge Landing,Miles River,38.79330000000,-76.12490000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Tunis Mills Bridge Landing,Leeds Creek,38.82160000000,-76.16760000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Washington,Sandy Hook,Potomac River,39.32540000000,-77.70650000000,Yes,No,No,No,No,Yes,,
+Maryland,Washington,Lock 33A,Chesapeake and Ohio Canal,39.32880000000,-77.73140000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Washington,Lock 33B - West,Chesapeake and Ohio Canal,39.33080000000,-77.73530000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Washington,Lock 34,Chesapeake and Ohio Canal,39.33310000000,-77.73910000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Washington,Dargan Bend,Potomac River,39.36390000000,-77.74060000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Washington,Lime Kiln,Potomac River,39.38810000000,-77.73310000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Washington,Mountain Lock 37,Chesapeake and Ohio Canal,39.38550000000,-77.73550000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Washington,Lime Kiln North,Chesapeake and Ohio Canal,39.40580000000,-77.73990000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Washington,Antietam Aqueduct/Antietam Creek Aqueduct,Potomac River,39.41820000000,-77.74690000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Washington,Antietam Campground/Antietam Creek Campground,Chesapeake and Ohio Canal,39.42130000000,-77.74920000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Washington,Packhorse Ford,Potomac River,39.43060000000,-77.77810000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Washington,Lock 38,Potomac River,39.43580000000,-77.80010000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Washington,Snyders Landing,Potomac River,39.46540000000,-77.77840000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Washington,Taylors Landing - East,Potomac River,39.49880000000,-77.76760000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Washington,Taylors Landing - West,Potomac River,39.49910000000,-77.76810000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Wicomico,Riverside - Salisbury,Wicomico River,38.36300000000,-75.60690000000,Yes,No,No,No,Yes,Yes,,"Wicomico County - Recreation, Parks, and Tourism"
+Maryland,Wicomico,Cherry Beach,Nanticoke River,38.54550000000,-75.71740000000,Yes,No,No,No,Yes,Yes,,Town of Sharptown
+Maryland,Wicomico,Nanticoke Harbor,Nanticoke River,38.26990000000,-75.90970000000,Yes,No,No,No,Yes,Yes,,"Wicomico County - Recreation, Parks, and Tourism"
+Maryland,Wicomico,Cedar Hill Park,Nanticoke River/Bivalve Harbor,38.31080000000,-75.88920000000,Yes,No,No,No,Yes,Yes,,"Wicomico County - Recreation, Parks, and Tourism"
+Maryland,Wicomico,Wetipquin,Wetipquin Creek,38.32670000000,-75.86680000000,Yes,No,No,No,Yes,Yes,,"Wicomico County - Recreation, Parks, and Tourism"
+Maryland,Wicomico,Tyaskin Wharf,Wetipquin Creek/Nanticoke River,38.32760000000,-75.87510000000,Yes,No,No,No,Yes,Yes,,"Wicomico County - Recreation, Parks, and Tourism"
+Maryland,Wicomico,Mardela Springs,Barren Creek,38.45410000000,-75.75610000000,Yes,No,No,No,Yes,Yes,,"Wicomico County - Recreation, Parks, and Tourism"
+Maryland,Wicomico,Clara Road,Wicomico River,38.26200000000,-75.82030000000,Yes,No,No,No,No,Yes,,"Wicomico County - Recreation, Parks, and Tourism"
+Maryland,Worcester,Cedar Hall Wharf,Pocomoke River,38.00870000000,-75.62060000000,Yes,No,No,No,Yes,Yes,,Worcester County - Department of Public Works
+Maryland,Worcester,Pocomoke City,Pocomoke River,38.07320000000,-75.57230000000,Yes,No,No,No,Yes,Yes,,The Town of Pocomoke City
+Maryland,Worcester,Winter Quarters,Pocomoke River,38.08580000000,-75.55930000000,Yes,No,No,No,No,Yes,,The Town of Pocomoke City
+Maryland,Worcester,Byrd Park - East,Pocomoke River,38.17550000000,-75.39980000000,Yes,No,No,No,No,Yes,,Worcester County - Department of Public Works
+Maryland,Worcester,Byrd Park - West,Pocomoke River,38.17410000000,-75.40330000000,Yes,No,No,No,Yes,Yes,,Worcester County - Department of Public Works
+Maryland,Worcester,Pocomoke State Park - Shad Landing,Pocomoke River,38.14040000000,-75.44040000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Baltimore,Southwest Area Park,Patapsco River,39.23420000000,-76.50610000000,Yes,No,No,No,No,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore City,Canton Waterfront Park,Inner Harbor - Northwest Branch,39.27680000000,-76.57260000000,Yes,No,No,No,Yes,Yes,,Baltimore City - Department of Recreation and Par*
+Maryland,Baltimore City,Baltimore Rowing Club at Middle Branch Park,Middle Branch/Patapsco River,39.25550000000,-76.62250000000,Yes,No,No,No,Yes,Yes,,Baltimore City - Department of Recreation and Par*
+Maryland,Charles,Purse State Park,Potomac River,38.43270000000,-77.25670000000,Yes,No,No,No,No,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Dorchester,Trenton Street,Cambridge Creek,38.56860000000,-76.07270000000,Yes,No,No,No,Yes,Yes,,Dorchester County - Department of Public Works - *
+Maryland,Kent,Bayside Landing Park,Rock Hall Harbor/Chesapeake Bay,39.13450000000,-76.24830000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Rock Hall Beach/Ferry Park,Chesapeake Bay,39.13740000000,-76.25670000000,Yes,No,No,No,Yes,Yes,,Town of Rock Hall
+Maryland,Montgomery,Pennyfield Lock - Kayak,Chesapeake and Ohio Canal/Potomac River,39.05640000000,-77.29340000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Queen Anne's,Jackson Creek Landing,Jackson Creek/Chester River,38.96860000000,-76.22260000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Somerset,Rumbley,Goose Creek,38.09210000000,-75.86210000000,Yes,No,No,No,Yes,Yes,,Somerset County - Roads Department
+Maryland,St. Mary's,Tall Timbers Landing,Herring Creek,38.17720000000,-76.54700000000,Yes,No,No,No,No,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Leonardtown Wharf Park,Breton Bay,38.28600000000,-76.63820000000,Yes,No,No,No,Yes,Yes,,Town of Leonardtown
+Maryland,Somerset,Little Boat Harbor,Little Annemessex River,37.98760000000,-75.85420000000,Yes,No,No,No,No,Yes,,Somerset County - Roads Department
+Maryland,Somerset,Ewell,Big Thorofare,37.99590000000,-76.03340000000,Yes,No,No,No,No,No,,Somerset County - Roads Department
+Maryland,Somerset,Tylerton,Tyler Cove,37.96900000000,-76.02360000000,Yes,No,No,No,No,No,,Somerset County - Roads Department
+Maryland,Talbot,Bellevue Landing,Tred Avon River,38.70280000000,-76.18160000000,Yes,No,No,No,Yes,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Talbot,Kingston Landing,Choptank River,38.78070000000,-75.96640000000,Yes,No,No,No,No,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Washington,Lock 33B - East,Chesapeake and Ohio Canal,39.33020000000,-77.73410000000,Yes,No,No,No,No,Yes,,National Park Service
+Maryland,Washington,Big Slackwater,Potomac River,39.50060000000,-77.84530000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Washington,Williamsport,Potomac River,39.59900000000,-77.82920000000,Yes,No,No,No,No,Yes,,The Town of Williamsport
+Maryland,Worcester,Pocomoke State Park - Milburn Landing,Pocomoke River,38.12170000000,-75.49520000000,Yes,No,No,No,No,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Washington,Dam 4,Potomac River,39.49540000000,-77.82650000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Washington,McMahons Mill,Potomac River,39.53030000000,-77.82440000000,Yes,No,No,No,Yes,Yes,,McMahon's Mill
+Maryland,Washington,Potomac Fish and Canoe,Potomac River,39.55010000000,-77.87840000000,Yes,No,No,No,No,Yes,,
+Maryland,Baltimore,North Point - Black Marsh,Chesapeake Bay,39.20820000000,-76.42350000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Cecil,Elk River Park,Little Elk Creek,39.58170000000,-75.85210000000,Yes,No,No,No,Yes,Yes,,Cecil County - Department of Parks and Recreation
+Maryland,St. Mary's,Piney Point Lighthouse Museum and Park,Potomac River,38.13500000000,-76.52870000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,St. Mary's City Park,St. Mary's River,38.18920000000,-76.43270000000,Yes,No,No,No,Yes,Yes,,St. Mary's College of Maryland
+Maryland,Queen Anne's,Terrapin Nature Park,Chesapeake Bay,38.99280000000,-76.32710000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Charles,Benedict Community Park,Patuxent River,38.51470000000,-76.67390000000,Yes,No,No,No,No,Yes,,Charles County - Parks and Recreation
+Maryland,Baltimore,Fleming Community Center and Park,Bear Creek,39.23610000000,-76.50110000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Edgemere Senior Center and Park,Back River/Greenhill Cove,39.24400000000,-76.45090000000,Yes,No,No,No,Yes,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Baltimore,Concrete Homes Park,Bullneck Creek,39.24830000000,-76.50420000000,Yes,No,No,No,No,Yes,,Baltimore County - Department of Recreation and P*
+Maryland,Washington,Four Locks,Potomac River,39.61450000000,-77.94630000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Allegany,Green Ridge State Forest - Bonds Landing,Potomac River,39.58020000000,-78.41260000000,Yes,No,No,No,Yes,Yes,,Maryland Department of Natural Resources - Park S*
+Maryland,Calvert,Kings Landing,Patuxent River,38.62560000000,-76.67570000000,Yes,No,No,No,Yes,Yes,,Calvert County Natural Resources Division
+Maryland,Calvert,Nans Cove,Nans Cove,38.42450000000,-76.54930000000,Yes,No,No,No,Yes,Yes,,Calvert County Natural Resources Division
+Maryland,Washington,McCoys Ferry/McCoys Landing,Potomac River,39.60800000000,-77.96860000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,St. Mary's,Elms Beach Park,Chesapeake Bay,38.19590000000,-76.36690000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,St. Mary's,Myrtle Point Park,Patuxent River,38.32980000000,-76.49660000000,Yes,No,No,No,Yes,Yes,,St. Mary's County - Department of Recreation and *
+Maryland,Queen Anne's,Bennett's Point Landing,Wye River,38.88940000000,-76.18790000000,Yes,No,No,No,Yes,Yes,,Queen Anne's County - Parks and Recreation
+Maryland,Kent,Green Lane Launch Ramp,Rock Hall Harbor/Chesapeake Bay,39.13060000000,-76.24300000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Sharp Street,Rock Hall Harbor/Chesapeake Bay,39.13320000000,-76.24370000000,Yes,No,No,No,Yes,No,,Kent County - Department of Public Works
+Maryland,Kent,Skinner's Neck,Herrington Creek,39.11030000000,-76.21110000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Shipyard Landing,Shipyard Creek/Langford Creek - West Fork,39.16230000000,-76.18990000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Long Cove Ramp,Long Cove/Langford Creek,39.11220000000,-76.18510000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Spring Cove Landing,The Haven,39.14750000000,-76.24410000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Kent,Bogles Wharf,Chester River,39.03220000000,-76.20950000000,Yes,No,No,No,Yes,Yes,,Kent County - Department of Public Works
+Maryland,Harford,Frank J. Hutchins Park,Susquehanna River,39.54720000000,-76.08610000000,Yes,No,No,No,Yes,Yes,,The City of Havre de Grace
+Maryland,Charles,Southern Park and Pier,Neale Sound/Potomac River,38.27640000000,-76.87780000000,Yes,No,No,No,Yes,Yes,,Charles County - Parks and Recreation
+Maryland,Charles,Hatton Creek,Wicomico River,38.30600000000,-76.85540000000,Yes,No,No,No,No,Yes,,Charles County - Parks and Recreation
+Maryland,Washington,Little Tonoloway,Potomac River,39.69440000000,-78.15690000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Allegany,Spring Gap,Potomac River,39.56410000000,-78.71900000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Allegany,Fifteen Mile Creek,Potomac River,39.62450000000,-78.38500000000,Yes,No,No,No,Yes,Yes,,National Park Service
+Maryland,Talbot,Sherwood Pier,Harris Creek,38.76210000000,-76.31720000000,Yes,No,No,No,Yes,Yes,,Talbot County - Department of Parks and Recreation
+Maryland,Anne Arundel,"Annapolis Maritime Museum, Eastport",Back Creek,38.96960000000,-76.47620000000,Yes,Yes,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,"Third Street & Back Creek, Eastport",Back Creek,38.96900000000,-76.47830000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,"Davis PArk, 4th Street & Back Crek, Eastport",Back Creek,38.96900000000,-76.47990000000,Yes,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,"Street End Park, 6th Street & Back Creek, Eastport",Back Creek,38.96690000000,-76.48130000000,Yes,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,"Horn Point, Chesapeake Avenue, Eastport",Severn River,38.97320000000,-76.47660000000,Yes,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Murphy Street - Jeremy's Way,Severn River,38.97390000000,-76.47760000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Severn Ave. & Spa Creek,Severn River,38.97430000000,-76.47800000000,Yes,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,1st Street & Spa Creek,Spa Creek,38.97510000000,-76.48060000000,Yes,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,"Leon Wolfe Park, 4th Street & Spa Creek, Eastport",Spa Creek,38.97210000000,-76.48310000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,"5th Street & Spa Creek, Eastport",Spa Creek,38.97160000000,-76.48420000000,Yes,No,No,No,No,No,,City of Annapolis
+Maryland,Anne Arundel,Shipwright Street & Spa Creek,Spa Creek,38.97340000000,-76.48800000000,Yes,No,No,No,No,No,,City of Annapolis
+Maryland,Anne Arundel,Market Street & Spa Creek,Spa Creek,38.97430000000,-76.49150000000,Yes,No,No,No,No,No,,City of Annapolis
+Maryland,Anne Arundel,Southgate Ave. & Spa Creek,Spa Creek,38.97340000000,-76.49400000000,Yes,No,No,No,No,No,,City of Annapolis
+Maryland,Anne Arundel,Taney Avenue & Spa Creek,Spa Creek,38.97300000000,-76.49530000000,Yes,No,No,No,No,No,,City of Annapolis
+Maryland,Anne Arundel,Amos Garrett Park,Spa Creek,38.97050000000,-76.50100000000,Yes,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Barbara Neustadt Park,Spa Creek,38.97090000000,-76.49930000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Lafayette Park,Spa Creek,38.97300000000,-76.49950000000,Yes,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Northwest Street End at College Creek,College Creek,38.98170000000,-76.49810000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Prinde George Street End Park,Spa Creek,38.97710000000,-76.48430000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,City Dock - Kunta Kinte - Alex Haley Memorial,Spa Creek,38.97770000000,-76.48680000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,"Burnside Park on Spa Creek, Eastport",Spa Creek,38.97170000000,-76.48700000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Revell Street and Spa Creek,Spa Creek,38.97380000000,-76.49090000000,Yes,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Conduit Street and Spa Creek,Spa Creek,38.97470000000,-76.49280000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Acton Cove Park,Spa Creek,38.97510000000,-76.49360000000,Yes,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Cheston Avenue & Spa Creek,Spa Creek,38.97250000000,-76.49580000000,No,No,No,Yes,No,No,,City of Annapolis
+Maryland,Anne Arundel,Back Creek Nature Park,Back Creek,38.96170000000,-76.48010000000,Yes,No,No,Yes,No,Yes,,City of Annapolis
+Maryland,Ane Arundel,College Creek Park,College Creek,38.98060000000,-76.50160000000,No,No,No,Yes,No,No,,City of Annapolis
+Delaware,Sussex,Phillips Landing,Broad Creek,38.56400000000,-75.67230000000,Yes,Yes,No,No,Yes,Medium,Includes a boat ramp,State Fish and Wildlife
+Delaware,Sussex,Seaford Boat Launch,Nanticoke River,38.63350000000,-75.61810000000,Yes,Yes,No,No,Yes,Large,Includes a boat ramp,State Fish and Wildlife
+Delaware,Sussex,Seaford Canoe Launch,Nanticoke River,38.64130000000,-75.60680000000,Yes,No,No,No,No,Small,Canoe/Kayak launch,City of Seaford
+Delaware,Sussex,Blades Marina,Nanticoke River,38.63670000000,-75.61160000000,Yes,No,No,No,Yes,Medium,Includes a boat ramp,Town of Bethel
+Delaware,Sussex,Seaford Riverwalk,Nanticoke River,38.64040000000,-75.61040000000,Yes,Yes,No,No,No,Small,Canoe/Kayak launch,City of Seaford
+Delaware,Sussex,Seaford Riverview Park,Nanticoke River,38.38050000000,-75.37060000000,No,Yes,No,No,No,Small,Includes picnic pavillion,City of Seaford
+DC,"Washington, D.C.",Buzzard's Point Marina,Anacostia,38.86380000000,-77.01220000000,Yes,Yes,No,No,Yes,Medium,,NPS
+DC,"Washington, D.C.",James Creek Marina,Anacostia,38.86470000000,-77.01360000000,Yes,Yes,No,No,Yes,Medium,,NPS
+DC,"Washington, D.C.",Roaches Run,Potomac,38.86550000000,-77.04380000000,Yes,Yes,No,Yes,Yes,Medium,,NPS
+DC,"Washington, D.C.",East Potomac Park,Potomac,38.87260000000,-77.03130000000,No,Yes,No,Yes,Yes,Medium,,NPS
+DC,"Washington, D.C.",Gangplank Marina,Potomac,38.87560000000,-77.02030000000,Yes,Yes,No,Yes,Yes,Large,,NPS
+DC,"Washington, D.C.",Columbia Island Marina,Potomac,38.87520000000,-77.04910000000,Yes,Yes,No,No,Yes,Large,,NPS
+DC,"Washington, D.C.",Washington Marina,Potomac,38.87750000000,-77.02230000000,Yes,Yes,No,Yes,Yes,Large,,NPS
+DC,"Washington, D.C.",Anacostia Marina,Anacostia,38.87900000000,-76.97460000000,Yes,Yes,No,No,Yes,Medium,,NPS
+DC,"Washington, D.C.",Anacostia Park,Anacostia,38.87970000000,-76.97030000000,Yes,Yes,No,No,Yes,Large,,NPS
+DC,"Washington, D.C.",West Potomac Park,Potomac,38.88260000000,-77.04480000000,No,Yes,No,Yes,No,Shoulder,,NPS
+DC,"Washington, D.C.",Theodore Roosevelt Island,Potomac,38.89710000000,-77.06300000000,No,Yes,No,Yes,Yes,Large,,NPS
+DC,"Washington, D.C.",Thompson's Boat Center,Potomac,38.90040000000,-77.05830000000,Yes,Yes,No,Yes,Yes,Medium,,NPS
+DC,"Washington, D.C.",Georgetown Waterfront Park,Potomac,38.90250000000,-77.06430000000,No,Yes,No,Yes,No,Medium,,NPS
+DC,"Washington, D.C.",Kenilworth Aquatic Gardens / Park,Anacostia,38.91250000000,-76.94470000000,No,Yes,No,Yes,Yes,Large,,NPS
+DC,"Washington, D.C.",Fletchers Boat House,Potomac,38.91880000000,-77.10250000000,No,No,No,Yes,Yes,Medium,,NPS
+DC,Washington,Diamond Teague Park,Anacostia,38.87170000000,-77.00570000000,Yes,No,No,Yes,,,,NPS
+DC,Washington,The Yards Park,Anacostia,38.87330000000,-77.00040000000,No,No,No,Yes,,,,NPS
+DC,Washington,Anacostia Boat House,Anacostia,38.87270000000,-76.99080000000,No,No,No,Yes,,,,NPS
+DC,Washington,Jack's Boat House,Potomac,38.90370000000,-77.06790000000,No,No,No,Yes,,,,NPS
+DC,Washington,Washington Canoe Club,Potomac,38.90460000000,-77.07190000000,No,No,No,Yes,,,,NPS
+DC,Washington,Oxon Cove,Anacostia,38.80370000000,-77.01690000000,No,No,No,Yes,,,,NPS
+DC,Washington,Kingman Island,Anacostia,38.89440000000,-76.96390000000,No,No,No,Yes,,,,NPS
+DC,Washington,Heritage Island,Anacostia,38.89200000000,-76.96630000000,No,No,No,Yes,,,,NPS
